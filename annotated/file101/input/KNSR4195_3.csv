@@ -1,0 +1,25 @@
+,0,1,2,3,4,5
+0,,,,Tolerances for foods and food supplements,,Tolerances for foods and food supplements
+1,,Side 1 of tolerance,,,,Side 2 of tolerance
+2,,(includes,uncertainty,uncertainty,of,
+3,,measurement,to,the,side,
+4,,"specified, + or -",,,,
+5,Vitamins,+50%**,,,,- measurement uncertainty
+6,Minerals,+45%,,,,- measurement uncertainty
+7,Carbohydrate*,<10 g per 100 g:,,+4g,,- measurement uncertainty
+8,"Protein*,",10-40 g per 100 g:,,+40%,,- measurement uncertainty
+9,Fibre*,>40 g per 100 g:,,+16g,,-- measurement uncertainty
+10,Sugars*,<10 g per 100 g:,,-4g,,+ measurement uncertainty
+11,,10-40 g per 100 g:,,-40%,,+ measurement uncertainty
+12,,>40 g per 100 g:,,-16g,,+ measurement uncertainty
+13,Fat*,<10 g per 100 g:,,-3g,,+ measurement uncertainty
+14,,10-40 g per 100 g:,,-40%,,+ measurement uncertainty
+15,,>40 g per 100 g:,,-16g,,+ measurement uncertainty
+16,Saturates*,<4 g per 100 g:,,-1.6 g,,+ measurement uncertainty
+17,,4g per 100 g:,,-40%,,+ measurement uncertainty
+18,Mono-unsaturates*,<4 g per 100 g:,,+1.6 g,,- measurement uncertainty
+19,Polyunsaturates*,4g per 100 g:,,+40%,,- measurement uncertainty
+20,Sodium,< 0.5 g per 100 g:,,-0.3 g,,+ measurement uncertainty
+21,,0.5 g per 100 g:,,-40%,,+ measurement uncertainty
+22,Salt,<1.25 g per 100 g:,,-0.75 g,,+ measurement uncertainty
+23,,1.25 g per 100 g:,,-40%,,+ measurement uncertainty

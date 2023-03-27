@@ -1,0 +1,33 @@
+,0,1,2,3
+0,Metabolite,Microorganism,Fermentation substrate,Reference
+1,L-arginine,Corynebacterium glutamicum,Sucrose,Park et al.(2014)
+2,L-asparagine,Pseudomonas fluorescens,M9 agar medium,Badoei-Dalfard (2016)
+3,L-cysteine,Pantoea ananatis,Luria-Bertani broth,Takumi et al.(2017
+4,L-histidine,Corynebacterium glutamicum,Molasses (15%),Kulis-Horn et al. (2014)
+5,L-leucine,Corynebacterium glutamicum,CGXIIG growth medium,Feng et al.2018)
+6,L-lysine,Bacillus methanolicus,SOBsuc medium,Naerdal et al.2017
+7,L-tryptophan,Escherichia coli,Seed fermenter,Liu et al.(2017)
+8,L-tyrosine,Brevibacterium lactofermentum,and beet molasses,Sadeghiyan-Rizi et al. (2014)
+9,L-valine,Corynebacterium glutamicum,Brain heart infusion broth,Zhang et al. (2018)
+10,L-phenylalanine,Aspergillus oryzae,Potato dextrose agar,Ali and Haq (2010)
+11,DL-methionine,Corynebacterium glutamicum,molasses-based media,Ali et al. (2018)
+12,Amylase,Bacillus subtilis,hydrolysate,Rajagopalan and Krishnan (2008)
+13,Cellulase,Aspergillus niger,Apple pomace,Dhillon et al. (2012)
+14,Beta-glucanase,Trichoderma viride,Oatmeal and peptone,Yang et al.(2015
+15,Invertase,Saccharomyces cerevisiae,Red carrot residue,Rashad and Nooman (2009
+16,Lactase,Lactobacillus acidophilus,Fermented ragi,Akolkar et al.(2005)
+17,Xylose,Streptomyces murinus,Luria-Bertani broth,Sarmiento et al. (2015)
+18,Protease,Aspergillus niger,salt media (BSM),Atalah et al.(2019)
+19,Peptidase,Debaryomyces hansenii,Fermented sausage,Bolumar et al.(2008)
+20,Vitamin Bi,Bacillus subtilis,Cashew apple,Kaprasob et al. (2018)
+21,Vitamin B2,Propionibacteria,medium (WBM),Deptula et al. (2017)
+22,,"Lactobacillus Sp.,",,
+23,Vitamin B3,Leuconostoc mesenteroides.,Cashew apple juice,Kaprasob et al. (2018)
+24,,Bifidobacterium longum,,
+25,Vitamin B6,"Bacillus subtilis,",Minimal medium with,Rosenberg et al.(2017)
+26,Vitamin B6,Escherichia coli,yeast extract,Rosenberg et al.(2017)
+27,Vitamin B12,Propionic acid bacteria,Glycerol and glucose,Pophaly et al. (2012)
+28,Vitamin C,Bacillus thuringiensis,L-sorbose limiting,Yang et al. (2013)
+29,Vitamin C,Bacillus thuringiensis,medium,Yang et al. (2013)
+30,,"Lactococcus,",,
+31,Vitamin K,"Lactobacillus,",GM17 media,O'Connor et al. (2007)

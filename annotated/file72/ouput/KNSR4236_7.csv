@@ -1,0 +1,24 @@
+,0,1,2,3,4
+0,Crop,Trait,Gene/QTL,Method for identification,Reference
+1,Horse gram,Drought stress response,9 genes,Transcriptome analysis,Bhardwaj et al.2013
+2,Adzuki bean,Flowering time and pod,"VaAGL,VaPhyE,and VaAP2",QTL mapping,Li et al.2017
+3,,maturity,,,
+4,,Pollen viability,HQTL-1and HQTL-2,QTL mapping,Kaga et al. 2008
+5,Hyacinth bean,Drought-stress response,17 functionally relevant genes,Suppression subtraction,Yao et al. 2013
+6,,,,hybridization (SSH) analysis,
+7,Bambara groundnut Sub-optimal temperature stress,Bambara groundnut Sub-optimal temperature stress,9 transcription factors,Cross-species microarray tech-,Bonthala et al. 2016
+8,,response,,nique along with network-,
+9,,,,based analysis,
+10,Cow pea,Seed weight,2 QTLs,Linkage mapping,Fatokun et al. 1992
+11,,Aphid resistance,2 QTLs,Linkage mapping,Myers et al. 1996
+12,,Bacterial blight resistance,"CoBB-1,CoBB-2,CoBB-3",Linkage mapping,Agbicodo et al. 2010
+13,,Tolerance to seedling-stage,10 QTLs,Linkage mapping,Muchero et al.2009
+14,,drought,,,
+15,,Resistance to Macrophomina,"9 QTLs (Mac-1, Mac-2, Mac-3, Linkage mapping","9 QTLs (Mac-1, Mac-2, Mac-3, Linkage mapping",Muchero et al. 2010
+16,,,"Mac-4,Mac-5,Mac-6,Mac-",,
+17,,,"7, Mac-8, Mac-9)",,
+18,,Leaf shape (as a drought toler-,1 major QTL,Linkage mapping,Pottorff et al. 2012
+19,,ance trait),,,
+20,,Stay-green,"Dro-1, Dro-3, Dro-7",Linkage mapping,Muchero et al.2013
+21,,Heat stress,"Hbs-1,Hbs-2,and Hbs-3",Linkage mapping,Pottorff et al. 2014
+22,,Resistance to foliar thrips,"Thr-1, Thr-2, and Thr-3",Linkage mapping,Muchero et al. 2009

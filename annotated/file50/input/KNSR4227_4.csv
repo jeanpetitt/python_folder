@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6
+0,Samples,Rate,Volatile,Total SO2,Acetaldehyde,Free -Amino,Ethanol
+1,Samples,(gCO2/Day) *,Acidity (g/L),(mg/L),(mg/L),Acids (mgN/L),(% v/v)
+2,Biotype I,1.2  0.1 a,0.3  0.1 bc,2.0  0.0 c,45.7  0.6 b,40.3  0.5 b,12.3  0.1 b
+3,Biotype II,1.1  0.1 ab,0.2  0.0 c,24.0  0.7 a,19.2  1.0 e,45.5  0.2 a,12.1  0.3 b
+4,OKAY,1.00.1 b,0.4  0.1 ab,3.0  0.0 c,25.3  0.5 c,45.9  0.3 a,12.3  0.0 b
+5,EC1118,1.2  0.0 a,0.3  0.0 bc,10.0  0.7 b,21.3  0.9 d,39.6  0.9 b,12.7  0.1 a
+6,VIN13,1.2  0.0 a,0.5  0.1 a,2.0  0.0 c,74.6  0.6 a,45.9  0.9 a,12.2  0.0 b

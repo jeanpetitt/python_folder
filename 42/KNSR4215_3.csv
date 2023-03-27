@@ -1,0 +1,15 @@
+,0,1,2,3,4,5,6
+0,,,Normal Weight,Normal Weight,,,
+1,,Glycosylated Hemoglobin,Glycosylated Hemoglobin,,Insulin,,HOMA-IR
+2,,,p-Value,f,p-Value,,p-Value
+3,Daily GI,0.000,0.883,0.091,0.002,0.021,0.002
+4,Average GI,0.001,0.603,0.089,0.002,0.019,0.005
+5,Daily GL,0.004,0.074,0.057,0.059,0.012,0.082
+6,Average GL,0.006,0.011,0.124,<0.0001,0.029,<0.0001
+7,,,Overweight/Obese,Overweight/Obese,,,
+8,,Glycosylated Hemoglobin,Glycosylated Hemoglobin,,Insulin,,HOMA-IR
+9,,3,p-Value,,p-Value,,p-Value
+10,Daily GI,0.001,0.843,0.162,0.030,0.034,0.049
+11,Average GI,0.003,0.3561,0.229,0.001,0.051,0.002
+12,Daily GL,0.001,0.746,0.084,0.308,0.026,0.168
+13,Average GL,0.003,0.544,0.072,0.315,0.018,0.278

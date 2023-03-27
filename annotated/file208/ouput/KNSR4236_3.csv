@@ -1,0 +1,19 @@
+,0,1,2,3,4,5,6
+0,Legumes,Protein,Fat,Ash,Carbohydrate,Reference,Reference
+1,Orphan legumes,,,,,,
+2,Marama bean,29.0-38.036.0-43.02.5-3.7,29.0-38.036.0-43.02.5-3.7,29.0-38.036.0-43.02.5-3.7,19.0-27.0,"Belitz et al.2004; Maruatona,2008; Jackson et al.2010",
+3,Bambara groundnut17.4-25.26.0-7.9,Bambara groundnut17.4-25.26.0-7.9,,3.05.0,51.0-70.0,Mayes et al.2019Halimi et al.2019,Mayes et al.2019Halimi et al.2019
+4,Rice bean,18.6-20.40.3-2.0,18.6-20.40.3-2.0,3.0-4.3,60.7,"de Carvalho and Vieira, 1996; Tiwari and Singh 2012; Pattanayak",
+5,,,,,,et al. 2019,et al. 2019
+6,Andean lupin/Tarwi 40.0-45.014.0-24.0 2.4-5.2,Andean lupin/Tarwi 40.0-45.014.0-24.0 2.4-5.2,,Andean lupin/Tarwi 40.0-45.014.0-24.0 2.4-5.2,26.1-43.2,Carvalho et al.2005;Jacobsen and Mujica 2007;Carvajal-Larenas,
+7,,,,,,et al.2016,et al.2016
+8,Tepary bean,21.5-25.30.9-1.2,21.5-25.30.9-1.2,4.9-5.0,47.4-51.5,"Bhardwaj and Hamama, 2005; Heredia-Rodriguez et al.2019b, a",
+9,Adzuki bean,15.0-29.0,0.4-2.1,2.0-7.0,40.060.0,Yousif et al.2007:Orsi et al.2017:Yadav et al.2018,Yousif et al.2007:Orsi et al.2017:Yadav et al.2018
+10,Hyacinth bean,23.724.9,1.2,3.23.5,54.267.2,Purseglove 1968; Duke 1983; Hossain et al. 2016,Purseglove 1968; Duke 1983; Hossain et al. 2016
+11,Horse gram,19.0-29.0,0.6-2.6,3.0-3.8,57.2,"Sudha et al. 1995; Sreerama et al. 2010a, b; Cullis and Kunert, 2017",
+12,Cowpea,20-32%,0.6-1.3,2.97-3.47 50-60%,2.97-3.47 50-60%,Mamiro et al.2011;Boukar et al.2018Gondwe et al.2019,
+13,Major legumes,,,,,,
+14,Soybean,33.0-45.019.9,33.0-45.019.9,3.1,30.2,"USDA National Nutrient Database,2014;Cullis and Kunert 2017",
+15,Chickpea,12.6-30.53.8-10.2,12.6-30.53.8-10.2,2.5-3.2,52.4-70.9,"Singh,1985,Singhai and Shrivastava,2006","Singh,1985,Singhai and Shrivastava,2006"
+16,Common bean,16.5-25.20.3-1.3,16.5-25.20.3-1.3,4.24.5,43.5-67.9,Mesquita and Giada 2005:Carmona-Garcia et al.2007Celmeli et al,
+17,,,,,,,2018

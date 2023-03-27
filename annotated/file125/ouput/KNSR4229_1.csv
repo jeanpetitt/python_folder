@@ -1,0 +1,16 @@
+,0,1,2,3,4
+0,Variable,Criteria,,Include,Exclud
+1,Language,English,,x,
+2,Study design,Randomised controlled trial,Randomised controlled trial,,
+3,,,"Cohort studies,acute/mechanistic studies,reviews,protocols,conference abstracts",,X
+4,Population,Adults aged 18+,Adults aged 18+,X,
+5,,Children;pregnant women,Children;pregnant women,,X
+6,Setting,Community;care homes for older adults,Community;care homes for older adults,x,
+7,,Hospitalised patients,Hospitalised patients,,X
+8,Duration, 4 weeks, 4 weeks,X,
+9,Intervention,Plant protein supplementor diet,Plant protein supplementor diet,X,
+10,Comparator,,Animal protein supplement or diet (similar protein and energy content to intervention),x,
+11,Outcome(s),,"Muscle mass,muscle strength,physical performance,sarcopenia.Measured by one of the listed meth",X,
+12,,ods in Table2,ods in Table2,,
+13,Comorbidities,Non-alcoholic fatty liver disease;diabetes mellitus,Non-alcoholic fatty liver disease;diabetes mellitus,X,
+14,,,"Chronic kidney disease,cancermalnutrition,Crohn's disease,rheumatoid arthritis,fibromyalgia,HIV",,X

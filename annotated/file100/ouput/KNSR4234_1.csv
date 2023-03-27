@@ -1,0 +1,31 @@
+,0,1,2,3
+0,,Low PA,High PA,
+1,,Median (IQR),Median (IQR),p Value
+2,Age (years),56.0 (10.0),52.0 (12.0),<0.001
+3,Anthropometrics,,,
+4,Weight (Kg),93.8 (15.6),94.8 (19.2),0.034
+5,BMI(Kg/m2),32.5 (4.4),33.6 (5.5),0.094
+6,WC (cm),111.1 (14.4),112.6 (12.5),0.466
+7,HC (cm),110.9 (9.6),113.4 (14.2),0.006
+8,NC (cm),42.6 (3.4),40.7 (6.1),0.002
+9,Diet,,,
+10,Carbohydrates (g/day),248.4 (122.3),236.9 (131.5),0.693
+11,Protein (g/day),91.4 (36.6),113.6 (48.3),0.003
+12,Lipids (g/day),100.0 (42.4),93.9 (43.1),0.011
+13,Ingested calories (Kcal/day),2311.0 (960.6),2321.2 (1013.6),0.442
+14,Expended calories(Kcal/day),1700.2 (708.8),2515.3 (856.8),<0.001
+15,Ingested-expended calories (Kcal/day),642.5 (1256.3),143.9 (1174.4),<0.001
+16,Energy expenditure,,,
+17,Measured accelerometer (MET/day),1.8 (0.2),2.1 (0.4),<0.001
+18,Reported Minnesota (MET/day),0.3 (0.4),0.4 (0.5),<0.001
+19,Measured-reported(MET/day),1.5 (0.3),1.9 (0.5),<0.001
+20,Education (years),15.0 (4.0),15.0 (6.0),0.607
+21,,n (%),n (%),
+22,Gender,,,0.002
+23,Female,12 (30.8),19 (47.5),
+24,Socioeconomic status according job,,,0.068
+25,Low,20 (62.5),17 (77.3),
+26,Medium,10 (31.2),4 (18.2),
+27,High,2 (6.2),1 (4.5),
+28,Smoking habit1 cigarette/day,2 (5.1),7 (17.5),0.001
+29,Alcohol consumption >7 drinks/week,5 (12.8),9 (22.5),0.048

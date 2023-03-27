@@ -1,0 +1,33 @@
+,0,1,2,3,4
+0,Type of Establishment,Country,Total Number of Articles,,References
+1,Type of Establishment,(Number of Articles),Total Number of Articles,,References
+2,,United States of America12,,,
+3,,Australia(1),,,
+4,,United Kingdom (2),,,
+5,Fast food,South Korea (1),19,19,"[5,15-33]"
+6,,Greece(1),,,
+7,,Switzerland (1),,,
+8,,Spain (1),,,
+9,,Australia (1),,,
+10,,South Korea (1),,,
+11,Restaurant,United States of America (6),16,16,"[4,79,15,19,20,27,3442]"
+12,,United Kingdom (3),,,
+13,,Greece (1),,,
+14,,United States of America (2),,,
+15,,Australia(1),,,
+16,,Greece (1),,,
+17,Cafeterias and bars,United Kingdom (2),12,12,"[15,16,22,26,27,33,35,36,39,42-44]"
+18,,South Korea (1),,,
+19,,United States of America (1),,,
+20,,China (3),,,
+21,,United Kingdom (3),,,
+22,Ready to eat and take away,South Korea (1),,6,"[23,26,31,35,38,45]"
+23,,Switzerland (1),,,
+24,,United Kingdom (2),,,
+25,Full service,South Korea (1),,5,"[24,25,28,29,46]"
+26,,United States of America (2,,,
+27,Buffet and buffet by weight,United States of America (1),,3,"[26,43,47]"
+28,Sit-down restaurant,Brazil (1),,2,"[19,47]"
+29,Chain restaurant,United Kingdom (1),,2,"[17,30]"
+30,A la carte,Brazil (1),,1,[43]
+31,Eating at the table,Switzerland (1),,1,[31]

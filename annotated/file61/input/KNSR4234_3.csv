@@ -1,0 +1,18 @@
+,0,1,2,3
+0,,Low PA,High PA,
+1,,Median,Median (IQR),p Value
+2,,(IQR),Median (IQR),p Value
+3,,n (%),n (%),
+4,NAFLD according to,,,
+5,AST>40 U/L,2 (5.4),3 (7.7),0.421
+6,ALT>40U/L,15 (38.5),8 (20.0),<0.001
+7,GGT>50 U/Lmen;>32 U/L women,16(41.0),13 (32.5),0.116
+8,FLI>60,38 (100.0),38 (95.0),0.005
+9,HSI>36,35 (94.6),38 (97.4),0.203
+10,IFC-NMR > 6.4%,33 (84.6),30 (75.0),0.033
+11,Metabolic syndrome parameters,,,
+12,Abdominal obesity,37 (94.9),39 (97.5),0.222
+13,High triglyceridemia150 mg/dL,27 (69.2),23 (57.5),0.031
+14,<50mg/dL women,23 (59.0),25 (62.5),0.521
+15,diastolic pressure85 mmHg),30 (78.9),26 (66.7),0.016
+16,High fasting glycemia 100 mg/dL,25 (64.1),18 (45.0),0.001

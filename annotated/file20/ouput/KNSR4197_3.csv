@@ -1,0 +1,21 @@
+,0,1,2,3,4,5
+0,,,,,Height-for-age,
+1,,,,HIV related standardised,HIV related standardised,
+2,,,,mean differences in growth,mean differences in growth,
+3,Class,Adjusted for,Association,SMD,95 % CI*,HIV FA interaction
+4,,Not adjusted for any FAt,CPHIV v.CHEU,0.64,"0.97, -032",N/A
+5,Totals,Total SFA,CPHIV v.CHUU,0.48,"076, 023",N/A
+6,Totals,Total SFA,CPHIV v.CHEU,0.63,"074, 021",0.98
+7,Totals,,CPHIV v. CHUU,0.47,"095, -030",
+8,,Total n-3,CPHIV v.CHEU,0.65,"096, -033",0.45
+9,,,CPHIV v.CHUU,0.49,"076, -021",
+10,,Total n-6,CPHIV v.CHEU,0.60,"091, -027",0.80
+11,,,CPHIV v. CHUU,0.46,"070, -018",0.63
+12,,Total MUFA,CPHIV v.CHEU,-0.63,"094, 032",0.63
+13,,,CPHIV v.CHUU,0.46,"-072, -020",
+14,,Total PUFA,CPHIV v.CHEU,0.63,"095, -031",0.71
+15,,,CPHIV v.CHUU,0.47,"074, -021",
+16,n-9,Mead acid,CPHIV v.CHEU,0.57,"089, -026*",0.22
+17,,,CPHIV v.CHUU,-0.43,"-070,-015",
+18,Ratio,T/T ratio,CPHIV v.CHEU,0.59,"092, -027",0.53
+19,,,CPHIV v. CHUU,-0.44,"071, -018",

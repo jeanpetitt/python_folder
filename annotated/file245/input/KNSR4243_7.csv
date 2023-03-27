@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+0,,,,CWR,WHP,CROP name,CROP taxa,GenePool - TaxonGroup,Relative degree,Economic Priority,Breeding Priority,Conservation Priority,Endemic Priority,Energy Supply-ITPGRFA Priority],FPS,Priority
+1,,,,CWR,WHP,,Citrullus lanatus,,,,,,,,,
+2,CUCURBITACEAE,Citrullus colocynthisL.Schrad,species,CWR,WHP,Watermelon,(Thunb.)Matsum.&,GenePool,2,10,6,0,0,10,5.2 High,5.2 High
+3,,,,CWR,WHP,,Nakai.,,,,,,,,,
+4,APIACEAE,Coriandrum sativum L.,species,CWR,WHP,Coriander,Coriandrum sativum,TaxonGroup,1b,10,10,0,0,10,6,High
+5,ROSACEAE,Crataegus azarolus L.,species,CWR,WHP,Azarole,Crataegus azarolus,TaxonGroup,1b,10,10,2,0,10,6.4 High,6.4 High
+6,ROSACEAE,Crataegus laciniata Ucria,species,CWR,WHP,Azarole,Crataegus azarolus,TaxonGroup,4,10,4,2,0,10,5.2,High
+7,ROSACEAE,Crataegus monogyna Jacq.,species,CWR,WHP,Azarole,Crataegus azarolus,TaxonGroup,4,10,4,2,0,10,5.2,High
+8,CUCURBITACEAE,Cucumis melo L.,species,CWR,WHP,Melon,Cucumis melo L.,GenePool,1b,10,10,0,0,10,6,High
+9,APIACEAE,Cuminum cyminum L.,species,CWR,WHP,Cumin,Cuminum cyminum,TaxonGroup,1b,10,10,0,0,10,6,High
+10,ASTERACEAE,cardunculus,subsp.,CWR,WHP,Artichoke,Cynara cardunculus,GenePool,1b,10,10,0,0,10,6,High
+11,ASTERACEAE,flavescens Wiklund,subsp.,CWR,WHP,Artichoke,Cynara cardunculus,GenePool,1b,10,10,0,0,10,6,High
+12,POACEAE,Stebbins & D. Zohary,subsp.,CWR,,Grass,Dactylis glomerata L.,TaxonGroup,1b,0,10,0,10,10,6,High
+13,APIACEAE,Daucus carota L. subsp. carota,subsp.,CWR,WHP,Carrot,Daucus carota L.,GenePool,1b,10,10,0,0,10,6,High
+14,APIACEAE,(Lojac.)Heywood,subsp.,CWR,,Carrot,Daucus carota L.,GenePool,1b,10,10,0,0,10,6,High
+15,APIACEAE,Thell..,subsp.,CWR,,Carrot,Daucus carota L.,GenePool,1b,10,10,0,0,10,6,High
+16,APIACEAE,(Gouan)Thell.,subsp.,CWR,,Carrot,Daucus carota L.,GenePool,1b,10,10,0,0,10,6,High
+17,APIACEAE,(Lam.)Batt.,subsp.,CWR,WHP,Carrot,Daucus carota L.,GenePool,1b,10,10,0,0,10,6,High
+18,APIACEAE,(Desf.) Ball,subsp.,CWR,,Carrot,Daucus carota L.,GenePool,1b,10,10,0,0,10,6,High
+19,APIACEAE,Schubl. & G. Martens,subsp.,CWR,WHP,Carrot,Daucus carota L.,GenePool,1b,10,10,0,0,10,6,High
+20,APIACEAE,Daucus durieua Lange,species,CWR,,Carrot,Daucus carota L.,TaxonGroup,4,10,4,2,0,10,5.2 High,5.2 High
+21,APIACEAE,Daucus reboudii Coss. ex Batt.,species,CWR,,Carrot,Daucus carota L.,TaxonGroup,4,10,4,0,10,10,6.8 High,6.8 High
+22,APIACEAE,Daucus rouyi Spalik & Reduron,species,CWR,,Carrot,Daucus carota L.,GenePool,2,10,6,0,0,10,5.2,High
+23,APIACEAE,Daucus sahariensis Murb.,species,CWR,,Carrot,Daucus carota L.,GenePool,2,10,6,2,0,10,5.6 High,5.6 High
+24,APIACEAE,Daucus syrticus Murb,species,CWR,,Carrot,Daucus carota L.,GenePool,1b,10,10,0,10,10,8,High
+25,APIACEAE,Daucus virgatus (Poir.) Maire,species,CWR,,Carrot,Daucus carota L.,GenePool,1b,10,10,0,10,10,8,High
+26,BRASSICACEAE,Diplotaxis simplex (Viv.)Spreng.,species,CWR,WHP,Wall Rocket,L.DC.,TaxonGroup,4,10,4,0,10,10,6.8,High

@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6
+0,,Fermentation,Volatile,Total SO2,Acetaldehyde,Free -Amino,Ethanol
+1,Samples,Rate,Acidity (g/L),(mg/L),(mg/L),Acids (mgN/L),(% v/v)
+2,,(gCO2/Day) *,Acidity (g/L),(mg/L),(mg/L),Acids (mgN/L),(% v/v)
+3,Biotype I,0.9  0.1 c,0.7  0.1 a,4.0  0.0 e,9.5  0.7 d,35.8  0.7 d,12.3  0.1 a
+4,Biotype II,1.1 0.0 b,0.3  0.0 bc,41.0  1.4 a,62.5  0.76 a,32.2  0.6 e,11.7  0.4 b
+5,OKAY,1.10.1 bc,0.3  0.0 c,11.0 0.7 d,40.1  0.3 c,43.6  0.9 b,12.2  0.2 a
+6,EC1118,1.2  0.0 b,0.4  0.1 b,23.0  0.7 b,48.4  0.9 b,38.8  0.6 c,12.3  0.2 a
+7,VIN13,1.4  0.1 a,0.2  0.0 d,16.0 0.7 c,47.3  0.5 b,46.0  0.7 a,11.9  0.1 ab

@@ -1,0 +1,7 @@
+,0,1,2,3,4,5
+0,Trait class,#RVs,Median of cors(varbvs)-cors(rrBLUP),Additive genetic architecture,#relQTLs,H?
+1,Biochemical,136,"+0.05[-0.12,+0.18]",Sparse-,"3.0 [0.0, 8.0]","0.69[0.41,0.96"
+2,Abiotic stress,2,"0.04[0.09,+0.02",Dense,"0.5 [0.1,0.9]","0.37[0.21,0.52"
+3,Phenological,3,"0.04[-0.06,0.03",Dense+,"2.0[0.4,2.0]","0.80[0.72,0.83"
+4,Morphological,5,"0.08[0.08,0.07",Dense+,"1.0 [0.0, 1.6]","0.82[0.74,0.87"
+5,Agronomical,6,"0.12 [-0.09,+0.19]",Dense-,"1.5 [0.5,5.0]","0.79 [0.38,0.95"

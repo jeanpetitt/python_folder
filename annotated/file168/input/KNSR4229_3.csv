@@ -1,0 +1,31 @@
+,0,1
+0,GeneralInformation,GeneralInformation
+1,Study title,Study title
+2,Type of RCT(i.e.standard parallel arm;crossover;cluster),Type of RCT(i.e.standard parallel arm;crossover;cluster)
+3,Start and end date;duration,Start and end date;duration
+4,Country,
+5,Funding source,Funding source
+6,Population and setting,Population and setting
+7,Gender,
+8,Age group,Age group
+9,"Focused diseases/conditions,ifany","Focused diseases/conditions,ifany"
+10,"Menopause status,if relevant","Menopause status,if relevant"
+11,Total number of participants,Total number of participants
+12,Source/setting of the population,Source/setting of the population
+13,Method(s)of recruitment and sampling technigue,Method(s)of recruitment and sampling technigue
+14,ntervention and comparator,ntervention and comparator
+15,Protein source,Protein source
+16,Energy content(kcal),Energy content(kcal)
+17,Protein content (grams),Protein content (grams)
+18,Number of participants in each arm,Number of participants in each arm
+19,Compliance,Compliance
+20,Dropout rate,Dropout rate
+21,Additional features of interventions,Additional features of interventions
+22,Physical activity,Physical activity
+23,Supplementary micronutrients,Supplementary micronutrients
+24,Outcomes,
+25,Muscle health outcomes of interest,Muscle health outcomes of interest
+26,Measurement method,Measurement method
+27,Unit of analysis,Unit of analysis
+28,Time points measured,Time points measured
+29,,"Summary statistics at baseline and at all study time points(mean,SD,P-value,and 95% CI)"

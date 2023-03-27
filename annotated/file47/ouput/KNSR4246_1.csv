@@ -1,0 +1,27 @@
+,0,1,2,3,4,5
+0,Cultivar,Bag Type,Cluster,Total Soluble,Titratable,TSS/TA
+1,Cultivar,Bag Type,Weight/g,Solids/Brix,Acidity/(%),TSS/TA
+2,,White bag,59574 a,15.60.1 a,0.3120.002 a,49.80.3b
+3,,Pink bag,55873a,14.00.1c,0.2710.002a,51.60.4b
+4,,Yellow bag,61497 a,14.80.1 ab,0.3220.013 a,46.01.5c
+5,RDZH,Blue bag,64380 a,15.10.1a,0.2990.001 a,50.50.3b
+6,,Transparent bag,60026 a,14.30.0b,0.3070.001 a,46.4 0.2 c
+7,,Mesh bag,51485a,14.80.0 ab,0.2700.003a,54.80.3 a
+8,,Paper bag,692 104 a,13.80.0c,0.2700.001 a,51.30.2 b
+9,,White bag,35455 a,20.7  0.0 d,0.395  0.0.02 a,52.3 0.2 b
+10,,Pink bag,40459a,21.30.1c,0.3860.006b,55.50.3b
+11,,Yellow bag,37521a,21.80.1 b,0.3600.001d,60.50.4 a
+12,RDHY,Blue bag,38142a,19.2 0.1 e,0.3600.004 d,53.20.6b
+13,,Transparent bag,37521 a,23.00.1 a,0.3770.002c,60.90.2 a
+14,,Mesh bag,38037 a,21.00.2c,0.3810.001bc,55.10.3b
+15,,Paper bag,38755a,18.7  0.1 f,0.3570.003d,52.40.5b
+16,,White bag,66659a,16.9 0.6 a,0.5620.002b,29.51.6bc
+17,,Pink bag,667142 a,15.50.2b,0.5050.009bc,31.00.3b
+18,,Yellow bag,59214 a,15.90.6 ab,0.4470.001 e,35.81.5a
+19,RDHM,Blue bag,59790 a,15.90.8 ab,0.4960.001c,30.11.9bc
+20,,Transparent bag,60152a,15.50.2b,0.4660.006d,33.6 0.3 a
+21,,Mesh bag,644107 a,17.30.3 a,0.6340.005a,27.4  0.6 c
+22,,Paper bag,70697 a,16.0 0.7 ab,0.5080.001 bc,31.61.7b
+23,p-values,Cultivar,<0.001,<0.001,<0.001,<0.001
+24,,Treatment,0.547,<0.001,<0.001,<0.001
+25,,Cultivar x Treatment,0.591,<0.001,<0.001,<0.001

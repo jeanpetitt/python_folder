@@ -1,0 +1,11 @@
+,0,1,2,3,4,5,6
+0,,Feeding Program,,,Market Class,,Total
+1,,,,Light Broiler,Medium Broiler,Heavy Broiler,
+2,,,n flocks,12,12,12,36
+3,Control,,n samples,60,60,60,180
+4,,,n replicates,3,3,3,9
+5,,,n flocks,12,12,12,36
+6,Functional,,n samples,60,60,60,180
+7,,,n replicates,3,3,3,9
+8,,Total,,120,120,120,360
+9,(according to the market class),,(according to the market class),6,6,6,18

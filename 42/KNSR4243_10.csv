@@ -1,0 +1,23 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+0,,,Taxon,Rank,CWR,WHP,CROP name,CROP taxa,GenePool - TaxonGroup,Relative degree,Economic Priority,Breeding Priority,Conservation Priority,Endemic Priority,Energy Supply-ITPGRFA Priority,FPS,Priority
+1,BRASSICACEAE,Sinapis arvensis L.subsp.arvensis,,subsp.,CWR,,Black,W.D.J.Koch,GenePool,2,10,6,0,0,10,5.2,High
+2,BRASSICACEAE,pubescens,,subsp.,CWR,,Radish,Raphanus sativus L.,GenePool,3,10,2,4,0,10,5.2,High
+3,ROSACEAE,Sorbus aria (L.) Crantz,Sorbus aria (L.) Crantz,species,CWR,,Apple,Sorbus domestica L.,TaxonGroup,4,10,4,2,0,10,5.2,High
+4,ROSACEAE,Sorbus umbellata(Desf.Fritsch,,species,CWR,,Apple,Sorbus domestica L.,TaxonGroup,4,10,4,2,0,10,5.2,High
+5,AMARANTHACEAE,Spinacia oleracea L.,Spinacia oleracea L.,species,CWR,WHP,Spinach,Spinacia oleracea L.,GenePool,1b,10,10,0,0,10,6,High
+6,LAMIACEAE,Thymus algeriensis Boiss.& Reut.,,species,CWR,WHP,Thyme,Thymus vulgaris L.,TaxonGroup,4,8,4,0,10,10,6.4,High
+7,LAMIACEAE,Thymus numidicus Poir,Thymus numidicus Poir,species,CWR,,Thyme,Thymus vulgaris L.,TaxonGroup,4,8,4,0,10,10,6.4,High
+8,ASTERACEAE,porrifolius,,subsp.,CWR,,Oyster Plant,porrifolius L.,TaxonGroup,1b,10,10,0,0,10,6,High
+9,FABACEAE,Trigonella foenum-graecum L.,Trigonella foenum-graecum L.,species,CWR,WHP,Seed, graecum L.,TaxonGroup,1b,8,10,0,,10,5.6,High
+10,POACEAE,Triticum dicoccum Schubl.,Triticum dicoccum Schubl.,species,CWR,WHP,Emmer,Schubl.,GenePool,1b,10,10,0,0,10,6,High
+11,POACEAE,Triticum durum Desf,Triticum durum Desf,species,CWR,WHP,Durum,Triticum durum Desf,GenePool,1b,10,10,,,10,6,High
+12,POACEAE,Triticum polonicum L.,Triticum polonicum L.,species,CWR,WHP,Polish,L.,GenePool,1b,10,10,,0,10,6,High
+13,FABACEAE,Vicia faba L.,,species,CWR,WHP,Faba-Bean,Vicia faba L.,GenePool,1b,10,10,0,0,10,6,High
+14,FABACEAE,Vicia fulgens Batt.,,species,CWR,,Common,Vicia sativa L.,TaxonGroup,4,3,4,10,10,10,7.4,High
+15,FABACEAE,Vicia monardi Boiss.& Reut.,,species,CWR,,Broad beans,Vicia sp.pl.,TaxonGroup,4,10,4,0,10,10,6.8,High
+16,FABACEAE,Vicia narbonensis L.,Vicia narbonensis L.,species,CWR,,Narbon,Vicia narbonensis L.,GenePool,1b,3,10,2,0,10,5,High
+17,FABACEAE,DorthesBatt.,,subsp.,CWR,WHP,Common,Vicia sativa L.,GenePool,1b,3,10,3,,10,5.2,High
+18,FABACEAE,(Moris Arcang.,,subsp.,CWR,WHP,Common,Vicia sativa L.,GenePool,1b,3,10,2,,10,5,High
+19,FABACEAE,Vicia sativa subsp.nigraL.) Ehrh.,,subsp.,CWR,WHP,Common,Vicia sativa L.,GenePool,1b,3,10,2,,10,5,High
+20,VITACEAE,Vitis vinifera L. subsp.vinifera,Vitis vinifera L. subsp.vinifera,subsp.,CWR,WHP,Grape-Wine,Vitis vinifera L.,GenePool,1b,10,10,0,0,10,6,High
+21,VITACEAE,Vitis vinifera subsp.sylvestrisC.C.,,subsp.,2,WH,Grape-Wine,Vitis vinifera L.,GenePool,1b,10,10,0,0,10,6,High

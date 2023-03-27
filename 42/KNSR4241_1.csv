@@ -1,0 +1,18 @@
+,0,1,2,3
+0,Characteristics,Lower Intake,Higher Intake,p Value a
+1,Mean Standard Deviation orn(%,n=17,n=17,p Value a
+2,Age (years),61.1  6.0,62.9  5.1,0.34
+3,"Men, n (%)",16 (95%),17 (100%),0.31
+4,Racial group,,,
+5,"White,n (%)",11 (65%),13(76%),0.66
+6,"African American, n (%)",4 (23%),2 (12%),
+7,"Hispanic, n (%)",2 (12%),2 (12%),
+8,Body mass index (kg/m2),32.4  7.4,35.4  5.2,0.18
+9,"Ever smokers, n (%)",10 (59%),11 (65%,0.72
+10,"Current alcohol use, n (%)",8 (47%),7 (41%),0.46
+11,"Hypertension, yes (%)",11 (65%),14 (82%),0.24
+12,"Type 2 diabetes, yes (%)",7(41),10 (59),0.30
+13,Healthy Eating Index,64.1  8.7,57.8  8.3,0.04
+14,Saturated fat (grams/1000 kcal/day,10.5  0.98,15.7 2.16,<0.0001
+15,(grams/1000 kcal/day),12321,10314,0.004
+16,Protein (grams/1000 kcal/day),35.7  8.1,40.5  5.7,0.05

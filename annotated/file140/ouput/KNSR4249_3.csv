@@ -1,0 +1,26 @@
+,0,1,2,3,4,5,6
+0,Participant,Gender,Age,Highest education a,Service(s) used,Typical usage,Time since
+1,,,(years),,,frequency b,adoption
+2,,,,,,,(years)
+3,,Female,20-29,Higher,Deliveroo &Just Eat,Monthly,5
+4,,Male,20-29,Higher,"Deliveroo,Just Eat &Uber Eats",Fortnightly,>5
+5,3,Female,20-29,Higher,Deliveroo,Weekly,Unknown
+6,4,Female,30-39,Higher,Deliveroo &Just Eat,Weekly,5
+7,5,Female,30-39,Higher,Deliveroo& Just Eat,Weekly,<5
+8,,Female,2029,Higher,Deliveroo&Just Eat,Monthly,Unknown
+9,7,Female,20-29,Higher,Deliveroo,Weekly,5
+10,8,Female,40-49,Higher,Just Eat,Monthly,5
+11,9,Male,30-39,Compulsory,DeliverooJust Eat&Uber Eats,Weekly,>5
+12,10,Female,20-29,Further,Deliveroo,Monthly,5
+13,11,Male,30-39,Higher,Just Eat,Monthly,>5
+14,12,Female,20-29,Higher,"Deliveroo,Just Eat &Uber Eats",Fortnightly,>5
+15,13,Male,20-29,Compulsory,"Deliveroo,Just Eat &Uber Eats",Weekly,5
+16,14,Female,20-29,Higher,Just Eat,Monthly,>5
+17,15,Male,40-49,Further,Just Eat,Monthly,5
+18,16,Male,2029,Higher,Deliveroo &Uber Eats,Fortnightly,5
+19,17,Male,30-39,Higher,Deliveroo,Monthly,>5
+20,18,Male,20-29,Higher,Just Eat,Fortnightly,>5
+21,19,Male,30-39,Further,Deliveroo,Weekly,5
+22,20,Male,2029,Compulsory,Deliveroo&Just Eat,Fortnightly,5
+23,21,Male,2029,Compulsory,Deliveroo &Uber Eats,Daily,5
+24,22,Male,30-39,Higher,Deliveroo &Uber Eats,Weekly,>5

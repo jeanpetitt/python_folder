@@ -1,0 +1,6 @@
+,0,1,2,3,4,5,6
+0,,,Regression Equations,SE of the slopea,SE of the intercept,r2,Apparent coefficient of Ca
+1,CaD,Fine,Y=0.725X-1.364,0.070,1.505,0.83,0.72
+2,CaD,Coarse,Y=0.355X+5.475,0.096,2.212,0.38,0.35
+3,CaR,Fine,Y=0.957X-4.861,0.056,1.211,0.93,0.96
+4,CaR,Coarse,Y=0.475X+3.421,0.089,2.073,0.56,0.47

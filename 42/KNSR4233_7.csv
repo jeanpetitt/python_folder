@@ -1,0 +1,15 @@
+,0,1,2,3
+0,,,12-Month-Old,36-Month-Old
+1,"Sweetness density using grams, median (p25th--p75th)",,,
+2,,Overall #,815 (600-1.164),1.362 (1.001-1.847)
+3,,Males #,851 (6261.179),1.392 (1.0561.903)
+4,,Females #,756 (5741.124),1.295 (9291.794)
+5,Normal weight #,Normal weight #,795 (615-1.164),1.322 (9761.885)
+6,Overweight #,Overweight #,852 (5971.124),1.420 (1.011-1.817)
+7,,Obese #,625 (5131.268),1.343 (1.0561.794)
+8,"Association between both sweetness density indicators, beta coefficient","Association between both sweetness density indicators, beta coefficient",1.35 (1.28; 1.41),1.15 (1.05; 1.25)
+9,(95% CI) *,,,
+10,"Association sweetness density using grams with sugars intake, beta","Association sweetness density using grams with sugars intake, beta",11.6 (6.8; 16.5),22.9 (15.4; 30.4)
+11,coefficient(95%CI),,,
+12,"Association sweetness density using grams with NNS intake, beta",,191.8 (103.4; 280.2),553.3 (414.9; 691.7)
+13,coefficient (95% CI),,,

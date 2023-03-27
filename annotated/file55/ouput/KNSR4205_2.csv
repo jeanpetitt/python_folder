@@ -1,0 +1,7 @@
+,0,1,2,3,4
+0,Treatment,MSG,NaCl,L-Alanine,Cornstarch
+1,,(kg/100 kg,kg/100 kg,(kg/100 kg,(kg/100 kg
+2,,diet),diet),diet),diet)
+3,Control,0.00,0.271,1.054,0.675
+4,1% MSGa,1.00,0.136,0.527,0.337
+5,2% MSGb,2.00,0.000,0.000,0.000

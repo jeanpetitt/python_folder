@@ -1,0 +1,18 @@
+,0,1,2,3,4,5
+0,Volatile Compounds,Biotype I,Biotype II,OKAY,EC1118,VIN13
+1,Alcohols,,,,,
+2,Hexanol (g/L),10.0  0.0 b,20.0  0.0 a,20.0 0.0 a,20.0 0.0 a,20.0 0.0 a b
+3,-Phenyl ethanol (mg/L),29.1  0.4 b,24.8  0.4 d,20.2  0.9 e,50.5  0.1 a,27.2 1.1 c
+4,Esters,,,,,
+5,Isoamyl acetate (mg/L),2.5  0.1 a,2.2  0.0 b,1.2  0.1 e,1.60.1c,1.3  0.1 d
+6,Phenylethyl acetate (mg/L),0.3  0.0 c,0.3  0.0 c,0.2  0.0 d,0.6  0.0 b,0.7  0.0 a
+7,Ethyl hexanoate (mg/L),0.2  0.0 d,0.4  0.0 a,0.3  0.0 b,0.2  0.0 cd,0.2 0.0 c
+8,Ethyl butyrate (mg/L),0.2  0.0 d,0.30.0c,1.40.0a,0.70.0b,0.7 0.0 b
+9,Ethyl octanoate (g/L),50.0  0.1 a,30.0  0.1 b,10.0  0.0 b,20.0  0.0 b,10.0  0.0 b
+10,Diethyl succinate (g/L),10.00.1a,20.0  0.0 a,10.0  0.1 a,10.0  0.0 a,10.0  0.0 a
+11,Terpenes,,,,,
+12,Linalool (g/L),40.0  0.1 a,50.00.1a,60.0  0.1 a,50.0  0.1 a,10.0  0.0 b
+13,Nerol (g/L),30.0 0.1 a,20.0  0.1 a,20.0  0.1 a,20.0  0.0 a,20.0  0.0 a
+14,Geraniol (g/L),30.0  0.0 a,40.0 0.1 a,10.00.0 a,0.0 0.0a,10.0  0.0 a
+15,Enones,,,,,
+16,-Damascenone (g/L),10.0  0.0 ab,30.0  0.1 a,10.0  0.0 b,10.0  0.0 b,10.0  0.1 b

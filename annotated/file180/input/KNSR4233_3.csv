@@ -1,0 +1,13 @@
+,0,1,2,3,4
+0,,12 Months,36 Months,p-Value **,
+1,"Female, %",49.3,49.3,,
+2,"Male,%",50.7,50.7,,-
+3,"BMI z-score, mean  SE",0.74  0.89,0.82  1.09,<0.01,<0.01
+4,"Normal weight, n (%)",273 (62.6),262 (60.1),,
+5,"Overweight, n (%)",137 (31.4),129 (29.6),<0.01,<0.01
+6,"Obesity,n (%)",26 (6.0),45 (10.3),,
+7,"Maternal education12 years,n (%)",191 (43.8),172 (39.4),<0.01,
+8,"Maternal education>12years,n%",245 (56.2),264 (60.6),<0.01,<0.01
+9,"Maternal weight status: Normal weight, n (%)",112 (28.1),73 (19.9),,
+10,"Maternal weight status: Overweight,n(%)",122 (30.7),125 (34.1),<0.01,<0.01
+11,"Maternal weight status: Obese,n (%)",164 (41.2),169 (46.0),,

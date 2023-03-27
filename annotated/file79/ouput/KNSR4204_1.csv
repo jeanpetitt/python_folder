@@ -1,0 +1,21 @@
+,0,1,2,3
+0,,,,Threshold
+1,,Cut-off value,,value
+2,,(minimum,,(maximum
+3,Components,score 0,Scoring between 0,score 10
+4,of the VHEI*,points),and 10 points,points)
+5,Adequacy category,,,
+6,Vegetables,0,>0-<3,3
+7,Fruits,0,>0-<3,3
+8,Optimum category,,,
+9,Grains,0 or 30,>0-<12or>15-<30,12-15
+10,Protein,0or12,>0-<5or>6-<12,5-6
+11,foods,,,
+12,Fats and,0or12,>0-<5or>6-<12,5-6
+13,oils,,,
+14,Dairy,0 or 8,>0-<3or>4-<8,3-4
+15,Moderation category,Moderation category,,
+16,Sugar and,10,5-<10,<5
+17,sweets,,,
+18,Salt and,2,1-<2,<1
+19,sauces,,,

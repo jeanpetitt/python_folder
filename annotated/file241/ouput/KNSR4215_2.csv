@@ -1,0 +1,18 @@
+,0,1,2,3,4
+0,,"Normal Weight (n = 26,521)","Normal Weight (n = 26,521)",Overweight/Obese (n = 9216),
+1,,Mean,,Mean,% Total
+2,,(95% CI),,(95% CI),Energy
+3,Energy (kcal),2372,,2059,
+4,Energy (kcal),(2351-2393),,(20342084) *,
+5,Total carbohydrate (g),(313-319),53,(267274) *,52
+6,Glycemic carbohydrate (g),297,50,254,49
+7,Glycemic carbohydrate (g),(295300),50,(251258)*,49
+8,from food (g),(272277),46,(232238) *,45
+9,Glycemic carbohydrate,23,4,20,4
+10,from added sugar (g),(2224),4,(1920) *,4
+11,Fiber (g),19,3,16,3
+12,Fiber (g),(1919),3,(1617) *,3
+13,Protein (g),93,16,84,16
+14,Protein (g),(9294),16,(8385) *,16
+15,Lipids (g),83,31,72,31
+16,Lipids (g),(8283),31,(7173) *,31

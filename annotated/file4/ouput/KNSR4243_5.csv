@@ -1,0 +1,34 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+0,Family,,,CWR,WHP,CROP name,CROP taxa,GenePool - TaxonGroup,Relative degree,Economic Priority,Breeding Priority,Conservation Priority,Endemic Priority,Energy Supply-ITPGRFA Priority,FPS,Priority
+1,POACEAE,Aegilops cylindrica Host,species,CWR,,Wheat,Triticum aestivum L.,GenePool,2,10,6,0,0,10,5.2,High
+2,POACEAE,geniculata,subsp.,CWR,,Wheat,Triticum aestivum L.,GenePool,2,10,6,2,0,10,5.6,High
+3,POACEAE,(Eig) H.Scholz,subsp.,CWR,,Wheat,Triticum aestivum L.,GenePool,2,10,6,0,0,10,5.2,High
+4,POACEAE,Aegilops kotschyi Boiss.,species.,CWR,,Wheat,Triticum aestivum L.,GenePool,2,10,6,2,0,10,5.6,High
+5,POACEAE,neglecta,subsp.,CWR,,Wheat,Triticum aestivum L.,GenePool,2,10,6,2,0,10,5.6,High
+6,POACEAE,Aegilops subulata Pomel,species,CWR,,Wheat,Triticum aestivum L.,GenePool,2,10,6,0,0,10,5.2 High,5.2 High
+7,POACEAE,triuncialis,subsp.,CWR,,Wheat,Triticum aestivum L.,GenePool,2,10,6,2,0,10,5.6High,5.6High
+8,POACEAE,Aegilops ventricosa Tausch,species,CWR,,Wheat,Triticum aestivum L.,GenePool,2,10,6,2,0,10,5.6 High,5.6 High
+9,ALLIACEAE,ampeloprasum,subsp.,CWR,WHP,Leek,Allium porrum L.,GenePool,1b,10,10,0,0,10,6,High
+10,,,,,,Leeks and,,,,,,,,,,
+11,ALLIACEAE,chamaemoly,subsp.,CWR,WHP,alliaceous,Allium sp. pl.,TaxonGroup,4,10,4,2,0,10,5.2High,5.2High
+12,,,,,,vegetables,,,,,,,,,,
+13,ALLIACEAE,Allium commutatum Guss.,species,CWR,,Leek,Allium porrum L.,GenePool,1b,10,10,2,0,10,6.4 High,6.4 High
+14,,Allium porrum subsp.polyanthum,,CWR,WHP,,,,,,,,,,,
+15,ALLIACEAE,(Schult.&Schult.f.Jauzein&J.-M,subsp.,CWR,WHP,Leek,Allium porrum L.,GenePool,1b,10,10,0,0,10,6,High
+16,,Tison,,CWR,WHP,Leek,Allium porrum L.,,,,,,,,,
+17,,,,,,Leeks and,,,,,,,,,,
+18,ALLIACEAE,Allium tourneuxii Chabert,species,CWR,,alliaceous,Allium sp. pl.,TaxonGroup,4,10,4,0,10,10,6.8 High,6.8 High
+19,,,,,,vegetables,,,,,,,,,,
+20,,,,,,Leeks and,,,,,,,,,,
+21,ALLIACEAE,Allium triquetrum L.,species,CWR,WHP,alliaceous,Allium sp.pl.,TaxonGroup.,4,10,4,2,0,10,5.2 High,5.2 High
+22,,,,,,vegetables,,,,,,,,,,
+23,AMARANTHACEAE,Amaranthus cruentus L.,species,CWR,,Purple, cruentus L.,GenePool,1b,10,10,0,0,10,6,High
+24,APIACEAE,Anethum graveolens L.,species,CWR,WHP,Dill Seed,Anethum graveolens,TaxonGroup,1b,8,10,0,0,10,5.6High,5.6High
+25,,,,CWR,,,Anthriscus,,,,,,,,,
+26,APIACEAE,Anthriscus cerefolium (L.) Hoffm.,species,CWR,,Chervil,cerefolium (L.),TaxonGroup,1b,10,10,0,0,10,6,High
+27,,,,CWR,,,Hoffm.,,,,,,,,,
+28,APIACEAE,Apium graveolens L.,species,CWR,WHP,Celery,Apium graveolens L.,GenePool,1b,10,10,2,0,10,6.4,High
+29,ERICACEAE,Arbutus unedo L,species,CWR,WHP,Strawberry,Arbutus unedo L.,TaxonGroup,1b,10,10,2,0,10,6.4,High
+30,ASTERACEAE,Artemisia atlantica Coss.,species,CWR,WHP,Tarragon, dracunculus L,TaxonGroup,4,10,4,0,10,10,6.8,High
+31,ASTERACEAE,cinerea Le Houer.,subsp.,CWR,WHP,Tarragon, dracunculus L.,TaxonGroup,4,10,4,0,10,10,6.8,High
+32,ASTERACEAE,Artemisia saharae Pomel,species,CWR,WHP,Tarragon,dracunculus L.,TaxonGroup,4,10,4,0,10,10,6.8 High,6.8 High

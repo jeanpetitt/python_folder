@@ -1,0 +1,13 @@
+,0,1,2,3,4,5
+0,Limestone Granulometry,Ca level,CaDC,CaD (g kg-' DM),CaRC,CaR(g kgDM)
+1,Fine,Level 1,0.60,5.98,0.56,5.64
+2,,Level 2,0.64,12.15,0.61,11.54
+3,,Level 3,0.68,20.78,0.82,24.98
+4,Coarse,Level 1,0.69,10.00,0.74,10.66
+5,,Level 2,0.67,13.75,0.61,12.58
+6,,Level 3,0.52,16.12,0.60,18.38
+7,SEMb,,0.02,8.79,0.02,0.96
+8,"Probability, p",,,,,
+9,Level,,0.584,<0.0001,0.053,0.0001
+10,Granulometry,,0.736,0.717,0.569,0.811
+11,Level  Granulometry,,0.062,0.001,<0.0001,<0.0001

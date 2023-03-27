@@ -1,0 +1,29 @@
+,0,1,2,3,4,5,6
+0,,,Overall Micronutrient Intake N,Overall Micronutrient Intake N,,,
+1,,,(%),,,,
+2,Variables,Category,Inadequate,Adequate,COR(95% CI),AOR(95% CI),
+3,Educational status of lactating women,Cannot read and write,26(17.1),23(10.0),"1.87.98,3.56",".68(.247, 1.86)",
+4,,Primary school,34(22.4),51(22.3),"1.10(.64,1.89)",".91(.45,1.85)",
+5,,Secondary school,32(21.1),56(24.5),".94.55,1.62)",".94(.49, 1.78)",
+6,,College and above,60(39.5),99(43.2),,,1
+7,Educational status of husband (n=365),Cannot read and write,11(7.9),8(3.6),"2.30.89,5.97)","1.42(.34,5.63)",
+8,,Primary school,24(17.1),40(17.8),"1.05.56,1.79)",".92(.40, 2.16)",
+9,,Secondary school,25(17.9),43(19.1),".97.55,1.71",".92.47,1.83)",
+10,,College and above,80(57.1),134(59.6),1,1,1
+11,Occupational status of lactating women,Housewife,47(30.9),103(45.0),1,,1
+12,,Government employee,44(28.9),55(24.0),"1.751.04,2.97)**","2.45(1.37, 4.40)**",
+13,,Private employee,16(10.5,37(16.2),".95(.48, 1.87)",".76(.37, 1.55)",
+14,,Merchant,35(23.0),27(11.8),"2.84(1.55, 5.22)**","2.63(1.40,4.93)**",
+15,,Daily laborers and other,10(6.6),7(3.1),"3.13(1.12,8.73)","1.66(.54, 5.10)",
+16,Marital status of lactating women,Married,136(89.5),222(96.9),,,1
+17,,Divorced,16(10.5),7(3.1),"3.73(1.50, 9.30)**","2.71(1.01, 7.33)**",
+18,Knowledge status of lactating women,Poor knowledge,68(44.7),65(28.4),"2.181.30,3.66)**","2.71(1.47, 4.99)**",
+19,,Medium knowledge,47(30.9),87(38.0),"1.12.66,1.91)","1.25(.72,2.19)",
+20,,Good knowledge,37(24.3),77(33.6),,,1
+21,HFIAS,Food secure,31(20.4),26(11.4),,,1
+22,,Food insecure,121(79.6),203(88.6),"2.00(1.13, 3.53)**",".83(.34, 2.03)",
+23,Wealth Index,Poorest,37(24.3),33(14.4),"1.73.95,3.15",".86(.40, 1.84)",
+24,,Poor,28(18.4),57(24.9),".76(.42, 1.36)",".76(.41, 1.42)",
+25,,Middle,22(14.5),25(10.9),"1.36(.69,2.69)","1.39(.68, 2.84)",
+26,,Rich,19(12.5,43(18.8),".68(.35, 1.31)",".68(.35, 1.34)",
+27,,Richest,46(30.3),71(31.0,1,1,1

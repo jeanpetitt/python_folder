@@ -1,0 +1,26 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+0,Family,Taxon,Rank,CWR,WHP,CROP name,CROP taxa,GenePool - TaxonGroup,Relative degree,Economic Priority,Breeding Priority,Conservation Priority,Endemic Priority,Energy Supply-ITPGRFA Priority],FPS,,Priority
+1,ASPARAGACEAE,Asparagus officinalis L.,species,CWR,WHP,Asparagus,Asparagus officinalis,GenePool,1b,5,10,2,0,10,5.4High,,5.4High
+2,FABACEAE,Astragalus falciformis Desf.,species,CWR,,Milkvetch,Astragalus sp.pl.,TaxonGroup,4,0,4,4,10,10,5.6High,,5.6High
+3,FABACEAE,Astragalus saharae Pomel,species,CWR,,Milkvetch,Astragalus sp.pl.,TaxonGroup,4,0,4,4,10,10,5.6High,,5.6High
+4,AMARANTHACEAE,Boiss.,var,CWR,WHP,Spinach,Atriplex hortensis L.,TaxonGroup,4,10,4,4,0,10,5.6 High,,5.6 High
+5,AMARANTHACEAE,Atriplex mollis Desf.,species,CWR,,Spinach,Atriplex hortensis L.,TaxonGroup,4,10,4,4,10,10,7.6 High,,7.6 High
+6,POACEAE,Avena fatua L.subsp.fatua,subsp.,CWR,,Oat, Avena sativa L.,GenePool,1b,5,10,2,0,10,5.4,,High
+7,POACEAE,Avena sativa L. subsp.sativa,subsp.,CWR,WHP,Oat,Avena sativa L.,GenePool,1b,5,10,0,0,10,5,,High
+8,POACEAE,Avena sterilis L.subsp.sterilis,subsp.,CWR,,Oat,Avena sativa L.,GenePool,1b,5,10,2,0,10,5.4 High,,5.4 High
+9,POACEAE,Presl)H.Scholz,subsp.,CWR,,Oat,Avena sativa L.,GenePool,1b,5,10,0,0,10,5,,High
+10,POACEAE,(Durieu)Gillet &Magne,subsp.,CWR,,Oat,Avena sativa L.,GenePool,1b,5,10,0,0,10,5,,High
+11,AMARANTHACEAE,Beta macrocarpa Guss.,species,CWR,WHP,Sugarbeet,Beta vulgaris L.,GenePool,1b,5,10,0,0,10,5,,High
+12,AMARANTHACEAE,Arcang.,subsp.,CWR,WHP,Sugarbeet,Beta vulgaris L.,GenePool,1b,5,10,0,0,10,5,,High
+13,BRASSICACEAE,Brassica insularis Moris,species,CWR,,Kale,Brassica oleracea L.,GenePool,2,10,6,4,10,10,8,,High
+14,BRASSICACEAE,Brassica juncea L.Czern,species,CWR,,Mustard,Czern.,GenePool,1b,10,10,0,0,10,6,,High
+15,BRASSICACEAE,Brassica nigra (L.) W.D.J. Koch,species,CWR,,Black,W.D.J. Koch,GenePool,1b,10,10,0,0,10,,6,High
+16,BRASSICACEAE,Brassica oleracea L.,species,CWR,WHP,Kale,Brassica oleracea L.,GenePool,1b,10,10,0,0,10,6,,High
+17,BRASSICACEAE,Brassica rapa L.subsp.rapa,subsp.,CWR,WHP,Turnip:,Brassica rapa L.,GenePool,1b,10,10,0,0,10,6,,High
+18,BRASSICACEAE,L.)A.R.Clapham,subsp.,CWR,,Turnip,Brassica rapa L.,GenePool,1b,10,10,0,0,10,6,,High
+19,BRASSICACEAE,Brassica tournefortii Gouan,species,CWR,WHP,Kale,Brassica oleracea L.,GenePool,2,10,6,0,0,10,5.2,,High
+20,CAPPARACEAE,Capparis spinosa L.subsp.spinosa,subsp.,CWR,WHP,Capers,Capparis spinosa L.,TaxonGroup,1b,10,10,0,0,10,6,,High
+21,CAESALPINIACEAE,Ceratonia siliqua L,species,CWR,WHP,Carob,Ceratonia siliqua L.,TaxonGroup,1b,5,10,4,0,10,5.8,,High
+22,FABACEAE,Cicer arietinum L.,species,CWR,WHP,Chickpea,Cicer arietinum L.,GenePool,1b,10,10,0,0,10,6,,High
+23,ASTERACEAE,Cichorium intybus L.,species,CWR,WHP,Chicory,Cichorium intybus L.,GenePool,1b,10,10,0,0,10,6,,High
+24,ASTERACEAE,Cichorium pumilum Jacq.,species,CWR,WHP,Endive,Cichorium endivia L.,GenePool,1b,10,10,0,0,10,6,,High

@@ -1,0 +1,18 @@
+,0,1,2
+0,,CBA Primary Analysis,CUA Primary Analysis
+1,Perspective and Referent Group,"Societal, Australian population",Healthcare system
+2,Comparator/Base Case,Status quo--no shelf tag intervention,
+3,Options for Appraisal,Shelf tag intervention--3-year intervention and duration of effect,Shelf tag intervention--3-year intervention and duration of effect
+4,Time Horizon,Lifetime account of healthcare costs and health impacts,Lifetime account of healthcare costs and health impacts
+5,Discount Rate,3% (recommended by CBA framework [45]),5% (recommended by PBAC [21])
+6,Costs Included,"Supermarket industry, government",Government--health sector
+7,,HALYs valued using VSLY,
+8,Benefits Included,Healthcare cost-savings,HALYs gained
+9,Benefits Included,Consumer surplus (WTP for HSR),Healthcare cost-savings
+10,,Benefits to supermarkets(assessed qualitatively,
+11,Decision Rules,NPV/BCR,ICER: AUD per HALY gained
+12,Sensitivity Analyses *,Univariate and multivariate sensitivity analyses (see Table 2),Univariate and multivariate sensitivity analyses (see Table 2)
+13,Other Considerations,Equity and distributional impacts and other considerations described (qualitatively),Equity and distributional impacts and other considerations described (qualitatively)
+14,,Disaggregate costs and benefits across subgroups,
+15,Reporting,"healthcare payers (e.g., state and federal governments,",Overall findings
+16,,individuals and private health insurers).,

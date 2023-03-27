@@ -1,0 +1,40 @@
+,0,1,2,3
+0,Variables and categories,,Frequency,Percentage(%)
+1,Age,From 20 to 30years of age,250,65.6
+2,,From 31 to 43years of age,131,34.4
+3,Educational status of lactating women,Cannot read and write,49,12.9
+4,,primary school,85,22.3
+5,,secondary school,88,23.1
+6,,college and above,159,41.7
+7,Husband educational status,Cannot read and write,19,5.2
+8,,primary school,64,17.5
+9,,secondary school,68,18.6
+10,,college and above,214,58.6
+11,The religion of lactating women,Orthodox,314,82.4
+12,,Muslim,57,15.0
+13,,Protestant,10,2.6
+14,Occupational status of lactating women,Housewife,150,39.4
+15,,Government employee,99,26.0
+16,,Private employee,53,13.9
+17,,Merchant,62,16.3
+18,,Daily laborers and other,17,4.4
+19,Occupational status of husband,Merchant,85,23.1
+20,,Government employee,156,42.4
+21,,Private employee,92,25
+22,,Daily laborers and other,35,9.5
+23,Marital status of lactating women,Married,356,93.4
+24,,Divorced,23,6.0
+25,,Widowed and other,2,0.6
+26,Postpartum days/months,45 days to 6 month,103,27.1
+27,,7 to 24 months,278,72.9
+28,Number of children,<4,332,87.1
+29,,4,49,12.9
+30,Family size,<4,105,27.6
+31,,4,276,72.4
+32,Household food insecurity status,Food secure,324,85
+33,,Food insecure,57,15
+34,Wealth quintiles,Q1(poorest),70,18.4
+35,,Q2(poor),85,22.3
+36,,Q3(middle),47,12.3
+37,,Q4(rich),62,16.3
+38,,Q5(richest),117,30.7

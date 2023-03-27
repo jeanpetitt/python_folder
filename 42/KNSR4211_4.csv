@@ -1,0 +1,32 @@
+,0,1,2
+0,Topic Regarding EOH,Finding,References
+1,Monounsaturated fat,Low,[52]
+2,Fiber,Low,"[15,27,45,52,53]"
+3,,Micronutrients intake,
+4,Micronutrients,Low,[51]
+5,Sodium,High,"[41,51,53]"
+6,Phosphorus,Low,[45]
+7,Potassium,Low,[45]
+8,Niacin,Low,[45]
+9,Calcium,Low,"[27,54]"
+10,Vitamin C,Low,"[27,45]"
+11,,Beverages intake,
+12,"Dairy,milk",Low,"[16,24,52]"
+13,Soft drinks,High,"[11,16,52]"
+14,Fruit juice,High,"[11,52]"
+15,Sugar-sweetened beverages,High,[25]
+16,Beer,High,[53]
+17,Alcohol,High,"[50,52]"
+18,,Food intake,
+19,Sugar,High,"[5,27,48]"
+20,Starch,High,[27]
+21,Fruit,Low,"[5,16,51-53,55]"
+22,Vegetables,Low,"[5,52,55]"
+23,Cereal,Low,[53]
+24,Legumes,Low,[52]
+25,Olive oil,Low,[53]
+26,Nuts,High,[53]
+27,Meat,High,"[16,36,52,53]"
+28,Fish,High,[11]
+29,Bakery,High,[11]
+30,,Food,
