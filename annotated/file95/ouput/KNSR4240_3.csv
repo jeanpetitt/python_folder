@@ -1,8 +1,0 @@
-,0,1,2,3,4
-0,Level of texture-modified,"Pre-intervention,","Postintervention,","Changes,",
-1,diets,%(n/total n),%(n/total n),%,p2
-2,All texture-modified diets,44 (30/68),90 (71/79),46,<0.0001
-3,Soft and bite-sized,37(10/27),87 (26/30),50,0.0001
-4,Minced and moist,47 (9/19),91 (21/23),44,0.002
-5,Pureed,50 (11/22),92 (24/26),42,0.002
-6,Thickened fluids,31(4/13),100 (12/12),69,0.0005

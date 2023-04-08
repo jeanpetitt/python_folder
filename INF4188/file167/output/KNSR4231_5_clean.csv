@@ -1,0 +1,36 @@
+Stratification factors,,"Total cholesterol intake
+(each additional 100 mg/d)a","Total cholesterol intake
+(each additional 100 mg/d)a","Total cholesterol intake
+(each additional 100 mg/d)a","Egg intake(each 
+Additional egg/d)a","Egg intake(each 
+Additional egg/d)a","Egg intake(each 
+Additional egg/d)a"
+,N,OR,95%CI,Pfor interaction,OR,95%CI,Pfor interaction
+All participants,1617,1.07,1.02-1.13,,1.32,1.11-1.58,
+Age(years),,,,,,,
+<30,969,1.02,0.95-1.10,0.048,1.12,0.89-1.42,0.036
+30,648,1.24,1.12-1.32,,1.66,1.24-2.22,
+Prepregnancy BMI (kg/m2),,,,,,,
+<24,1369,1.07,1.02-1.14,0.985,1.31,1.08-1.58,0.676
+24,248,1.06,0.91-1.24,,1.5,0.86-2.61,
+Parity,,,,,,,
+Primiparous,1157,1.06,1.00-1.13,0.575,1.28,"1.03,1.58",0.673
+Multiparous,460,1.11,1.0-1.22,,1.46,"1.04,2.05",
+Physical activity (METh wk-1),,,,,,,
+<Median,809,1.48,1.14-1.93,0.396,1.11,"1.02,1.20",0.262
+>Median,808,1.21,0.94-1.54,,1.05,"0.98,1.13",
+Family history of diabetes,,,,,,,
+Yes,162,1.03,0.87-1.21,0.994,1.16,"0.67,2.00",0.964
+No,1455,1.07,1.02-1.13,,1.32,"1.09,1.60",
+Plasma TG (mmol/L),,,,,,,
+<Median,828,1.06,0.97-1.15,0.019,1.29,0.97-1.71,0.26
+Median,789,1.1,1.01-1.19,,1.33,1.04-1.70,
+Plasma TC (mmol/L),,,,,,,
+<Median,894,1.03,0.95-1.11,0.006,1.19,0.93-1.53,0.011
+Median,723,1.14,1.04-1.25,,1.51,1.14-2.01,
+PlasmaLDL-C(mmol/L,,,,,,,
+<Median,893,1.02,0.95-1.09,0.022,1.1,0.86-1.40,0.023
+>Median,724,1.15,1.07-1.24,,1.68,1.28-2.21,
+Plasma HDL-C (mmol/L),,,,,,,
+<Median,808,1.02,0.94-1.10,0.119,1.17,0.90-1.52,0.241
+>Median,809,1.11,1.04-1.20,,1.47,1.14-1.89,

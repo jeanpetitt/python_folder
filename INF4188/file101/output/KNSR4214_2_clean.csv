@@ -1,0 +1,25 @@
+,N,"Mean serving
+size(g)","Mean serving
+size(g)","Sodium (mg)
+Levels per serving","Sodium (mg)
+Levels per serving","Sodium (mg)
+Levels per serving","Sodium (mg)
+Levels per serving","Sodium (mg)
+Levels per serving","Sodium (mg)
+Levels per serving","% of dishes exceeding the
+sodium DRIs levels b","% of dishes exceeding the
+sodium DRIs levels b"
+,,Mean,SD,Mean,SD,%AI a,Median,P25,P75,AI:1500mg,PI:2000mg
+Region,,,,,,,,,,,
+North,3829,620,340.2,3270.2,4849.9,218,2345.5,1409.3,3734.5,72.1,58.9
+South,4302,536.1,291.2,3385.5,3423.7,225.7,2759.3,1596.3,4220.1,77.4,65.9
+Restaurant size,,,,,,,,,,,
+Large,2285,611.4,377.9,3447,4774.4,229.8,2604.3,1527.5,4040.7,75.7,63.8
+Medium,4162,576.4,291.3,3397.6,4219.8,226.5,2642.6,1579.3,4081.5,76.7,64.1
+Small,1684,525,283.6,3010.1,2894.8,200.7,2283.6,1368.8,3901.9,69.5,57.4
+Dish type,,,,,,,,,,,
+Cold dish,950,426.6,237.2,2975.5,4540.7,198.4,2018.3,1091,3251.5,62.3,50.5
+Fried dish,6819,598.9,317.3,3356.1,3887.3,223.7,2614.1,1575.8,4082.2,76.9,64.4
+Soup,246,574,357.3,4805.4,8190.7,320.4,3373,2112.2,4852.2,85.8,77.6
+Staples/snacks,116,431.3,454.6,1653.1,2011.6,110.2,934.7,107.6,2354.3,36.2,27.6
+Total,8131,575.6,318,3331.2,4156.9,222.1,2543.7,1496.9,4030.9,74.9,62.6

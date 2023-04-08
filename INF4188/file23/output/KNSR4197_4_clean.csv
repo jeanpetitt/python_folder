@@ -1,0 +1,29 @@
+,,Perinatally HIV infected,Perinatally HIV infected,Perinatally HIV infected,Perinatally HIV infected,"Perinatally HIV 
+Exposed uninfected","Perinatally HIV 
+Exposed uninfected","Perinatally HIV 
+Exposed uninfected","Perinatally HIV 
+Exposed uninfected","HIV unexposed 
+Uninfected","HIV unexposed 
+Uninfected","HIV unexposed 
+Uninfected","HIV unexposed 
+Uninfected",
+Fatty acids,Quartiles,Adjusted LSM,SE,Mean diff,95 % CI,Adjusted LSM,SE, Mean diff,95 % CI,Adjusted LSM,SE, Mean diff,95 % CI,FA x HIV
+SFA Arachidic,Quartile1,−0·60,0.24,0.54,"0·03, 1·06*",0·01,0.21,0·47,"0·41, 1·34",−0·85,0.14,−0·41,"−0·99, 0·16",
+SFA Arachidic,Quartile 3,−1·12,0.19,0.02,"−0·43, 0·47",−0·43,0.23,0·02,"−0·87, 0·90",−0·45,0.16,0·00,"−0·59, 0·58",0.027
+,Quartile 3,−1·01,0.22,0.13,"−0·36, 0·63",−0·74,0.22,−0·28,"−1·15, 0·59",−0·35,0.21,0·10,"−0·54, 0·74",
+,Quartile 4,−1·15,0.12,Ref,,−0·46,0.39,Ref,,−0·45,0.26,Ref,,
+ALA,Quartile 1,−0·92,0.19,0.12,"−0·29, 0·61",−0·02,0.27,0·33,"−0·32, 0·97",−0·74,0.15,−0·38,"−0·75, 0·00",0.1
+,Quartile 2,−0·96,0.14,0.12,"−0·29, 0·52",−0·74,0.15,−0·39,"−0·94, 0·16",−0·69,0-24,−0·32,"−0·85, 0·21",
+,"Quartiles (3, 4)",−1·08,0.15,Ref,,−0·35,0.19,Ref,,−0·37,0.13,Ref,,
+EPA,Quartiles,−0·92,0.14,0.2,"−0·23, 0·63",−0·41,0.19,−0·50,"−1·08, 0·09",−0·62,0-13,−0·39,"−0·88, 0·10",0.09
+,Quartile3,−1·12,0.18,0,"−0·49, 0·48",−0·91,0.22,−1·00,"−1·63, −0·37*",0·57,0.18,0·34,"−0·89, 0·20",
+,Quartile 4,−1·12,0.18,Ref,,0·09,0.24,Ref,,−0·23,0-22,Ref,,
+EPA+DHA,Quartile 1,−0·69,0.26,0.39,"−0·16, 0·94",−0·41,0.26,−0·05,"−0·63, 0·53",−0·77,0.14,−0·34,"−0·69, 0·00",0.1
+,"Quartiles
+(2, 3, 4)",−1·08,0.11,Ref,,−0·36,0.15,Ref,,−0·43,0.12,Ref,,
+n-3-index,Quartile 1,−0·74,0.25,0-35,−0·43,−0·43,0.27,−0·08,"−0·68, 0·52",0·81,0.14,−0·37,"−0·71, −0·02*",0.1
+,"Quartiles
+(2, 3, 4)",−1·09,0.1,Ref,−0·35,−0·35,0.15,Ref,,−0·44,0.13,Ref,,
+Nervonic,Quartile 1,−0·85,0.18,0.27,0·22,0·22,0.25,0·63,"−0·02, 1·27",−0·63,0-19,−0·02,"−0·45, 0·33",0.03
+,Quartile 2,−1·16,0.2,0.04,−0·75,−0·75,0.15,−0·34,"−0·82, 0·13",−0·27,0.22,0·34,"−0·14, 0·84",
+,Quartile 3,−0·89,0.15,Ref,−0·41,−0·41,0.2,Ref,,−0·61,0.13,Ref,,

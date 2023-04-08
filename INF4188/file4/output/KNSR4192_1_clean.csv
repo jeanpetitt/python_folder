@@ -1,0 +1,13 @@
+Variety,Parameter,Value (average)
+Manzanilla,rupture force (N),120
+Manzanilla,failure energy (J),0.3
+Manzanilla,toughness (J mm-3),0.065
+Fishmi,rupture force (N),108
+Fishmi,failure energy (J),0.25
+Fishmi,toughness (J mm-3),0.075
+Kalamata,rupture force (N),80
+Kalamata,failure energy (J),0.18
+Kalamata,toughness (J mm-3),0.06
+Roghani,rupture force (N),81.5
+Roghani,failure energy (J),0.21
+Roghani,toughness (J mm-3),0.05

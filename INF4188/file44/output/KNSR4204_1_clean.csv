@@ -1,0 +1,19 @@
+"Components
+of the VHEI*","Cut-off value
+(minimum score 0points)","Scoring between 0
+and 10 points","Cut-off value
+(maximum 
+Score 0points)"
+Adequacy category,,,
+Vegetables,0,>0-<3,3
+Fruits,0,>0-<3,3
+Optimum category,,,
+Grains,0 or 30,>0-<12or>15-<30,12-15
+Protein,0or12,>0-<5or>6-<12,5-6
+foods,,,
+Fats and oils,0or12,>0-<5or>6-<12,5-6
+Dairy,0 or 8,>0-<3or>4-<8,3-4
+Moderation category,,,
+Sugar and,10,5-<10,<5
+sweets,,,
+Salt and sauces,2,1-<2,<1

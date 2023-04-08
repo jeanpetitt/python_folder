@@ -1,0 +1,10 @@
+,Correct estimation of child's,Underestimation of child's weight,
+,weight status,status,
+Number of participants,496,111,
+Number of participants whose parents reported unhealthy,22,14,
+attitudes towards child's dietary habits,,,
+,Odds ratio (95% CI),,P
+Crude model,1 (Ref.),3.10 (1.606.03),<0.005
+Sex and race adjusted model,1 (Ref.),3.15 (1.606.18),<0.005
+Multivariable adjusted modelt,1 (Ref.),2.88 (1.485.60),<0.005
+Additionally adjusted for z- score of BMI,1 (Ref.),3.35 (1.716.53),0.005

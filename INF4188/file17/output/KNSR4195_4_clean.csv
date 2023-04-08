@@ -1,0 +1,26 @@
+Nutritional element,Amount,Rounding
+Energy,,"to nearest 1 kJ/kcal 
+(no decimals)"
+"Fat*,Carbohydrate*",>10 g per100 g or ml,to nearest 1 g (no decimals)
+"sugars*, Protein*, fibre*",<10 g and>0.5 g per 100 g or ml,to nearest 0.1 g
+"polyols*, starch*","No detectable amounts is present or
+concentration is  0.5 g per 100 g or ml","""0 g or ""<0.5 g""
+may be declared"
+Saturates*,>10 g per 100 g or ml,to nearest 1 g (no decimals)
+Mono-unsaturates*,<10 and>0.1 g per 100 g or ml,to nearest 0.1 g
+Polyunsaturates*,"no detectable amounts is present or
+concentration is  0.1 g per 100 g or ml","""0 g"" or ""<0.1 g""
+may be declared"
+Sodium,1 g per 100 g or ml,to nearest 0.1 g
+Sodium,<1 g and>0.005 g per 100 g or ml,to nearest 0.01 g
+Sodium,"no detectable amounts is present or
+concentration is  0.005 g per 100 g or ml","""0 g"" or ""<0.005 g'
+may be declared"
+Salt,1 g per 100 g or ml,to nearest 0.1 g
+Salt,<1 g and>0.0125 g per 100 g or ml,to nearest 0.01 g
+Salt,"no detectable amounts is present or
+concentration is  0.0125 g per 100 g or ml","""0 g” <0.01 g""
+may be declared"
+Vitamins and minerals,"vitamin A, folic acid, chloride, calcium,
+phosphorus, magnesium, iodine, potassium",3 significant figures
+Vitamins and minerals,All other vitamins and minerals,2 significant figures
