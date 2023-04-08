@@ -1,0 +1,7 @@
+,0,1,2,3,4,5,6,7
+0,Method,,Microarray-,,Microarray-,,Microarray-,
+1,,,GBS SNPs,,only SNPs,,GBS SNPs,
+2,Model,Software,#RVs #sSNPs #QTLs #RVs #sSNPs #QTLs,,,,,
+3,SNP-by-SNP GEMMA,SNP-by-SNP GEMMA,"1,784",88,"2,295",101,"7,855","1,784"
+4,Multi-SNP,mlmm.gwas,"1,243",148,"1,257",125,703,692
+5,,Varbvs,257,118,266,119,258,257

@@ -1,0 +1,18 @@
+,0,1,2,3,4
+0,,,Low PA,High PA,
+1,,,OR (95% CI),OR (95% CI),p-Value
+2,,Crude OR,1.00 (ref.),2.11 (0.627.15),0.231
+3,Abdominal obesity,OR Adjusted 1,1.00 (ref.),1.79 (0.486.68),0.387
+4,,OR Adjusted 2,1.00 (ref.),1.42 (0.385.28),0.601
+5,High,Crude OR,1.00 (ref.),0.60 (0.38-0.96),0.031
+6,triglyceridemia,OR Adjusted 1,1.00 (ref.),0.48 (0.290.82),0.007
+7,triglyceridemia,OR Adjusted 2,1.00 (ref.),0.67(0.37-1.19),0.172
+8,,Crude OR,1.00 (ref.),1.16 (0.74-1.82),0.521
+9,Low HDL-C,OR Adjusted 1,1.00 (ref.),0.80 (0.481.32),0.374
+10,,OR Adjusted 2,1.00 (ref.),0.76 (0.441.31),0.323
+11,,Crude OR,1.00 (ref.),0.53 (0.320.89),0.016
+12,Hypertension,OR Adjusted 1,1.00 (ref.),0.75(0.43-1.30,0.305
+13,,OR Adjusted 2,1.00 (ref.),0.98 (0.52-1.85),0.957
+14,High fasting,Crude OR,1.00 (ref.),0.46 (0.29-0.72),0.001
+15,glycemia,OR Adjusted 1,1.00 (ref.),0.55 (0.33-0.91),0.019
+16,glycemia,OR Adjusted 2,1.00 (ref.),0.68 (0.39-1.17),0.161

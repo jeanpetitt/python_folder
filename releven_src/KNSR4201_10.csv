@@ -1,0 +1,10 @@
+,0,1,2,3,4,5
+0,,,,Light Broiler,Medium Broiler,Heavy Broiler
+1,,,,,Coverage (%),
+2,,AI:2.7 mg/die,Control,7.04,8.25,14.11
+3,Zn,AI:2.7 mg/die,Functional,15.92,17.8,24.46
+4,Mn,PRI:12 mg/die,Functional,0.35,0.36,0.48
+5,,PRI: 55g/die,Control,9.40,9.40,10.32
+6,Se,PRI: 55g/die,Functional,20.92,28.25,62.85
+7,,AI: 13 mg/die,Control,13.84,9.46,9.85
+8,,,Functional,15.00,15.39,24.08

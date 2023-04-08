@@ -1,0 +1,12 @@
+Stage,Wheat,Wheat,Faba Bean,Faba Bean,Significant
+Stage,n,Days,n,Days,Significant
+Egg,100,2.00 ± 0.00,100,2.00 ± 0.00,ns
+Larva,,,,,
+1st instar,100,2.23 ± 0.045,100,5.09 ± 0.16,***
+2nd instar,100,2.32 ± 0.053,69,4.32 ± 0.21,***
+3rd instar,100,2.60 ± 0.065,39,5.31 ± 0.29,***
+4th instar,99,2.54 ± 0.056,34,4.03 ± 0.21,***
+5th instar,99,2.56 ± 0.071,30,4.03 ± 0.23,***
+6th instar,96,2.01± 0.060,27,3.22 ± 0.26,***
+Pupa,86,7.91 ± 0.13,25,7.40 ± 0.40,ns
+Adult,80,5.83 ± 0.10,20,5.90 ± 0.25,ns

@@ -1,0 +1,12 @@
+,0,1,2,3
+0,Conditions,,Parameters,
+1,Column,,"Agilent SB-C18 (1.8 m,2.1 mm X 100 mm)","Agilent SB-C18 (1.8 m,2.1 mm X 100 mm)"
+2,Mobile phase,,,
+3,Gradient program,0 min,95:5 v/v(Mobile phase A:Mobile phase B,95:5 v/v(Mobile phase A:Mobile phase B
+4,,0-9 min,a linear gradient to 5:95 v/v,a linear gradient to 5:95 v/v
+5,,9-10 min,,5:95/
+6,,10-11.1 min,adjust to 95:5 v/v,adjust to 95:5 v/v
+7,,11.1-14 min,,95:5/
+8,Flow rate,0.35 mL/min,,
+9,Column temperature,40,,
+10,Injection volume,4 L,,

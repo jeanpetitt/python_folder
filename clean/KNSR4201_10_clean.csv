@@ -1,0 +1,16 @@
+"Nutrient and 
+Relative AI or PRI","Nutrient and 
+Relative AI or PRI","Nutrient and 
+Relative AI or PRI",Light Broiler,Medium Broiler,Heavy Broiler
+"Nutrient and 
+Relative AI or PRI","Nutrient and 
+Relative AI or PRI","Nutrient and 
+Relative AI or PRI",Coverage (%),Coverage (%),Coverage (%)
+Zn,AI:2.7 mg/die,Control,7.04,8.25,14.11
+Zn,AI:2.7 mg/die,Functional,15.92,17.8,24.46
+Mn,PRI:12 mg/die,Control,0.1,0.03,0.03
+Mn,PRI:12 mg/die,Functional,0.35,0.36,0.48
+se,PRI: 55g/die,Control,9.4,9.4,10.32
+Se,PRI: 55g/die,Functional,20.92,28.25,62.85
+Vitamin E,AI: 13 mg/die,Control,13.84,9.46,9.85
+Vitamin E,AI: 13 mg/die,Functional,15,15.39,24.08

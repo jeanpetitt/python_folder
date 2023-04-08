@@ -1,0 +1,14 @@
+,0,1
+0,IDDSIlevel,Color coding
+1,Food (texture-modified diets),
+2,"Level7:regular,easy to chew",Black
+3,Level6:soft and bite-sized,Blue
+4,Level 5:minced and moist,Orange
+5,Level4:pureed,Green
+6,Level3:liquified,Yellow
+7,Drink (thickened fluids),
+8,Level4:extremely thick,Green
+9,Level3:moderately thick,Yellow
+10,Level 2:mildly thick,Pink
+11,Level 1: slightly thick,Gray
+12,Level 0:thin,White

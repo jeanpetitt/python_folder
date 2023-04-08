@@ -60,18 +60,52 @@ def get_relevent(folder_path):
 		# lister les fichier et dossier dans input et outpus
 		folder_lis_o = os.listdir(output_f)
 		folder_lis_i = os.listdir(input_f)
+		r_folder = os.listdir(r_path)
+		ir_folder = os.listdir(ir_path)
+
 
 		# parcourir chaque fichier input 
 		for subF in folder_lis_i:
-			if subF == "KNSR4221_5.csv":
-				print(f"{os.getcwd()}/INF4188/{folder}/input/{subF}")
-			# si le subF est un fichier on le copie dans source_clean
-			if os.path.isfile(f"{input_f}/{subF}"):
-				if subF in src_clean_path:
-					double_file.append(subF)
+			for file in folder_lis_o:
+				if os.path.isfile(f"{output_f}/{file}"):
+					if subF not in r_folder:
+						shutil.copy(f"{input_f}/{subF}", r_path)
+					else:
+						print("fichier releven deja été copié")
+					
+
+# get irrevelen file
+def get_irrelevent(folder_source):
+
+	releven_folder = os.listdir(r_path)
+
+	for file in folder_source:
+		if file not in releven_folder:
+			shutil.copy(f"{o_path}/{file}", ir_path)
+
+
+
+
+# get cleaned file
+
+def get_cleaned_file(folder_path):
+	src_clean_path = os.listdir(clean_f)
+
+	for folder in folder_path:
+		# obtenir le chemin des dossier input et output se trouvant a l'interieur de chaque dossier dans INF4188
+		output_f = f"{os.getcwd()}/INF4188/{folder}/output"
+
+		folder_lis_o = os.listdir(output_f)
+
+		# parcourir chaque fichier input 
+		for subF in folder_lis_o:
+			# si le subF est un fichier on le copie dans clean
+			if os.path.isfile(f"{output_f}/{subF}"):
+				if subF not in src_clean_path:
+					shutil.copy(f"{output_f}/{subF}", clean_f)
 				else:
-					shutil.copy(f"{input_f}/{subF}", src_clean_f)
-					i=i+1
+					print("fichier clean deja copier")
+		
 
 #  copier les fichier source dans le input du dossier INF4188 dans le dossier src_clean
 def copy_file(folder_path):
@@ -90,8 +124,6 @@ def copy_file(folder_path):
 
 		# parcourir chaque fichier input 
 		for subF in folder_lis_i:
-			if subF == "KNSR4221_5.csv":
-				print(f"{os.getcwd()}/INF4188/{folder}/input/{subF}")
 			# si le subF est un fichier on le copie dans source_clean
 			if os.path.isfile(f"{input_f}/{subF}"):
 				if subF in src_clean_path:
@@ -113,12 +145,15 @@ def copy_file_absent(folder_paths):
 
 if "__main__":
 	
-	folder_paths = os.listdir(o_path)
+	folder_source = os.listdir(o_path)
 	folder_path = os.listdir(a_path)
 	
 
-	copy_file(folder_path)
-	copy_file_absent(folder_paths)
+	# copy_file(folder_path)
+	# copy_file_absent(folder_source)
+	get_relevent(folder_path)
+	get_cleaned_file(folder_path)
+	get_irrelevent(folder_source)
 
 
 

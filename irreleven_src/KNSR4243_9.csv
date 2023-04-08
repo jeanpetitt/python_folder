@@ -1,0 +1,28 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+0,,,Taxon,Rank,CWR,WHP,CROP name,,GenePool - TaxonGroup, Relative degree,Economic Priority,Breeding Priority,Conservation Priority,Endemic Priority,Energy Supply-ITPGRFA Priority,FPS,Priority
+1,APIACEAE,Pimpinella anisum L.,Pimpinella anisum L.,species,CWR,WHP,Anise,Pimpinella anisum L.,TaxonGroup,1b,10,10,0,0,10,6,High
+2,ANACARDIACEAE,Pistacia atlantica Desf,Pistacia atlantica Desf,species,CWR,WHP,Pistachio, Pistacia vera L.,GenePool,2,10,6,4,0,10,6,High
+3,ANACARDIACEAE,Pistacia lentiscus L.,Pistacia lentiscus L.,species,CWR,WHP,Pistachio, Pistacia vera L.,GenePool,2,10,6,4,0,10,6,High
+4,ANACARDIACEAE,Pistacia terebinthus L,Pistacia terebinthus L,species,CWR,,Pistachio, Pistacia vera L.,GenePool,2,10,6,2,0,10,5.6,High
+5,FABACEAE,Bieb.) Asch. & Graebn.,,subsp.,CWR,WHP,Pea,Pisum sativum L.,GenePool,1b,10,10,0,0,10,6,High
+6,ROSACEAE,Prunus fruticans Weihe,Prunus fruticans Weihe,species,CWR,,Plum,Prunus domestica L.,TaxonGroup,2,10,6,0,0,10,5.2 High,5.2 High
+7,ROSACEAE,Prunus avium (L.) L.,Prunus avium (L.) L.,species,CWR,WHP,Sweet,Prunus avium (L.) L.,GenePool,1b,10,10,2,0,10,6.4 High,6.4 High
+8,ROSACEAE,Prunus cerasifera Ehrh.,Prunus cerasifera Ehrh.,species,CWR,WHP,Myrobalan,Prunus cerasifera,GenePool,1b,10,10,0,0,10,6,High
+9,ROSACEAE,Prunus dulcis (Mill.) D.A.Webb,Prunus dulcis (Mill.) D.A.Webb,species,CWR,WHP,Almond,D.A.Webb,GenePool,1b,10,10,0,0,10,6,High
+10,, Prunus insititia L.,,,CWR,,"European,",,,,,,,,,,
+11,ROSACEAE, Prunus insititia L.,,species,CWR,,"European,",Prunus insititia L.,GenePool,1b,10,10,0,0,10,6,High
+12,,,,,CWR,,Damson,,,,,,,,,,
+13,ROSACEAE,Prunus prostrata Labill.,Prunus prostrata Labill.,species,CWR,,Myrobalan,Ehrh.,GenePool,2,10,6,2,0,10,5.6,High
+14,ROSACEAE,Prunus spinosa L.,,species,CWR,,European,Prunus domestica L.,GenePool,2,10,6,0,,10,5.2,High
+15,PUNICACEAE, Punica granatum L., Punica granatum L.,species,CWR,WHP,Pomegranat, Punica granatum L.,GenePool,1b,10,10,0,0,10,6,High
+16,ROSACEAE,Pyrus syriaca Boiss.,Pyrus syriaca Boiss.,species,CWR,WHP,Pear,Pyrus communis L.,GenePool,2,10,6,0,0,10,5.2,High
+17,BRASSICACEAE,raphanistrum,,subsp.,CWR,,Radish,Raphanus sativus L.,GenePool,1b,10,10,0,0,10,6,High
+18,BRASSICACEAE,landra (DC.) Bonnier & Layens,,subsp.,CWR,,Radish,Raphanus sativus L.,GenePool,1b,10,10,,,10,6,High
+19,BRASSICACEAE,Raphanus sativus L.,Raphanus sativus L.,species,CWR,WHP,Radish,Raphanus sativus L.,GenePool,1b,10,10,0,0,10,6,High
+20,POLYGONACEAE,Rumex aristidis Coss.,Rumex aristidis Coss.,species,CWR,,Sorrel,Rumex acetosa L.,TaxonGroup,4,10,4,0,10,10,6.8,High
+21,POLYGONACEAE,Rumex tunetanus Barratte &Murb.,,species,CWR,,Sorrel,Rumex acetosa L.,TaxonGroup,4,10,4,10,10,10,8.8,High
+22,AMARANTHACEAE,Salsola tunetana Brullo,Salsola tunetana Brullo,species,CWR,,Saltwort,Salsola sp. pl.,TaxonGroup,4,0,4,4,10,10,5.6,High
+23,CAPRIFOLIACEAE,Sambucus nigra L.,Sambucus nigra L.,species,CWR,WHP,Elderberry,Sambucus nigra L.,TaxonGroup,1b,10,10,0,0,10,6,High
+24,ASTERACEAE,coronopifolia (Desf.)Rouy,,subsp.,CWR,,Scorzonera,Scorzonera hispanica,TaxonGroup,1b,10,10,0,0,10,6,High
+25,BRASSICACEAE,Bonnier,,subsp.,CWR,,White, Sinapis alba L.,GenePool,1b,10,10,0,0,10,6,High
+26,BRASSICACEAE,Lindb.Maire,,subsp.,CWR,,White,Sinapis alba L.,GenePool,1b,10,10,0,,10,6,High

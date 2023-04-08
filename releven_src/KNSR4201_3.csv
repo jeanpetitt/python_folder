@@ -1,0 +1,46 @@
+,0,1,2,3,4,5,6
+0,,,Starter,Grower 1,Grower 2,Grower 2,Finisher
+1,,,,,Ingredients (%),,
+2,Sunflower meal,Control,1.25,1.25,,1.90,2.00
+3,Sunflower meal,Functional,1.00,1.00,,1.00,1.00
+4,"Oil, fat",Control,4.20,5.15,,5.70,5.95
+5,"Oil, fat",Functional,3.50,4.30,,5.03,5.20
+6,Corn gluten meal,Control,1.25,0.70,,,
+7,Corn gluten meal,Functional,1.32,0.55,,,
+8,Extruded linseed meal,Control,-,-,,,
+9,Extruded linseed meal,Functional,2.50,2.50,,3.13,3.13
+10,Vitamin E,Control,-,,,-,
+11,"(100,000 UI/Kg feed)",Functional,0.22,0.23,,0.23,0.23
+12,Selenium,Control,-,-,,-,-
+13,(2000 mg/Kg feed),Functional,0.01,0.01,,0.01,0.01
+14,Premix (Min.+ Vit. + Enz.+ Amin.),Control,4.77,3.92,,3.43,3.17
+15,Premix (Min.+ Vit. + Enz.+ Amin.),Functional,4.60,3.81,,3.33,3.09
+16,,,,Proximate composition (%),Proximate composition (%),Proximate composition (%),
+17,Volume,Control,100,100,,100,100
+18,Volume,Functional,100,100,,100,100
+19,AME (Kcal/Kg),Control,2996,3094,,3187,3214
+20,AME (Kcal/Kg),Functional,2991,3095,,3184,3215
+21,Dry matter,Control,89.34,89.20,,89.00,89.00
+22,Dry matter,Functional,89.30,89.20,,89.00,89.00
+23,Crude Protein,Control,23.32,21.30,,19.10,18.40
+24,Crude Protein,Functional,23.30,21.30,,19.20,18.40
+25,Crude Fiber,Control,3.12,3.10,,3.00,2.90
+26,Crude Fiber,Functional,3.20,3.10,,2.90,2.90
+27,Ether extract,Control,6.75,7.80,,8.40,8.70
+28,Ether extract,Functional,6.90,7.70,,8.70,8.90
+29,Ash,Control,6.77,5.90,,5.40,5.20
+30,Ash,Functional,6.80,6.10,,5.50,5.30
+31,Lysine (digest),Control,1.28,1.15,,1.02,0.96
+32,Lysine (digest),Functional,1.28,1.15,,1.02,0.96
+33,Metionine + Cysteine (digest),Control,0.95,0.87,,0.80,0.75
+34,Metionine + Cysteine (digest),Functional,0.95,0.87,,0.80,0.75
+35,Threonine (digest),Control,0.87,0.78,,0.69,0.64
+36,Threonine (digest),Functional,0.87,0.78,,0.69,0.64
+37,Calcium,Control,1.00,0.90,,0.80,0.70
+38,Calcium,Functional,1.00,0.90,,0.80,0.70
+39,Phosphorus,Control,0.70,0.60,,0.50,0.50
+40,Phosphorus,Functional,0.70,0.60,,0.50,0.50
+41,Selenium (mg/Kg feed) *,Control,0.10,0.10,,0.10,0.10
+42,Selenium (mg/Kg feed) *,Functional,0.40,0.40,,0.40,0.40
+43,Vitamin E (mg/Kg feed),Control,84,70,,70,70
+44,Vitamin E (mg/Kg feed),Functional,299,300,,300,300

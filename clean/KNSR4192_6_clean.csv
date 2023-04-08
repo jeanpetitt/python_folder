@@ -1,0 +1,5 @@
+Source of variation,Degrees of freedom,Peroxide,Acidity
+Rotational speed,2,85.33**,43.47**
+Amount of water added,2,28.03**,23.61**
+Rotational speed  amount of water added,,0.17ns,0.24ns
+Error,16,0.037,0.016

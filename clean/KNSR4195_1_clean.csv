@@ -1,0 +1,20 @@
+,"Tolerances for foods
+(includes uncertainty of measurement)"
+Vitamins,+50%**   -35%
+Minerals,+45%      -35%
+Carbohydrate,<10 g per 100 g:  ±2 g
+Sugars,10-40 g per 100 g:  ± 20%
+Protein,"
+>40 g per 100 g:  ±8 g"
+"
+Fibre",
+Fat,<10 g per 100 g: ± 1.5 g
+Fat,10-40 g per 100 g: ± 20%
+Fat,>40 g per 100 g:  ±8 g
+Saturates,<4 g per 100 g:  ±0.8 g
+Mono-unsaturates,≥4g per 100 g: ±20%
+Polyunsaturates,
+Sodium,<0.5g per 100 g: ±0.15%
+Sodium,<0.5g per 100 g: ±20%
+Salt,<1.25 g per 100 g: ±0.375 g
+Salt,≥1.25 g per 100 g: ±20%

@@ -1,0 +1,28 @@
+,0,1,2,3
+0,Condition assayed,Total phenolic compounds (mg kg- fresh,Total phenolic compounds (mg kg- fresh,Total phenolic compounds (mg kg- fresh
+1,,weight),,
+2,,280 nm1,320 nm2,370 nm3
+3,(a)Microwave power-stirring level,(a)Microwave power-stirring level,,
+4,750 W-50%,119.42,104.92,34.59
+5,1500 W-50%,125.29,112.66,33.51
+6,750W-100%,118.98,114.72,35.48
+7,1500 W-100%,117.86,111.50,32.81
+8,Significance level,ns,ns,ns
+9,(b) Sample weight,,,
+10,0.5 g,67.24a,10.08a,36.90a
+11,1g,97.60a,20.87b,35.68a
+12,2g,124.65b,60.21c,38.07a
+13,3 g,141.04c,91.49d,54.01b
+14,4g,137.47c,92.24d,57.55b
+15,5g,149.53c,92.30d,50.36b
+16,Significance level,***,***,***
+17,(cExtraction time,,,
+18,1 min,107.45a,80.77a,42.19a
+19,3 min,146.68b,141.65d,55.43b
+20,5 min,142.32b,129.81cd,59.48b
+21,7 min,143.20b,124.12bc,53.61b
+22,9 min,144.55b,119.84bc,54.03b
+23,11 min,145.79b,118.65bc,52.04b
+24,13 min,143.88b,108.57b,51.82b
+25,15 min,144.76b,109.19b,50.42b
+26,Significance level,**,**,**

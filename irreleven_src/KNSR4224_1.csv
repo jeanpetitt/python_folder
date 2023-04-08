@@ -1,0 +1,34 @@
+,0,1,2,3
+0,Ingredients (g kg-),Level1,Level 2,Level3
+1,Corn,569.3,569.3,569.3
+2,Soybean meal,252.0,252.0,252.0
+3,Cornstarch,75.0,37.5,0.0
+4,Corn cob,42.0,36.0,30.0
+5,Limestone,23.9,50.5,77.0
+6,Monosodium phosphate,0.0,3.2,6.5
+7,Soybean oil,17.7,32.7,47.7
+8,Salt,4.2,2.9,1.6
+9,Vitamin premixa,1.1,1.1,1.1
+10,Trace mineral premixb,1.1,1.1,1.1
+11,DL-Methionine,2.6,2.6,2.6
+12,Choline chloride,1.0,1.0,1.0
+13,BHT,0.1,0.1,0.1
+14,Celite,10.0,10.0,10.0
+15,Calculated composition,,,
+16,Metabolizable energyMJ kg,12.34,12.34,12.34
+17,Crude protein,160.5,160.5,160.5
+18,Calcium,10.00,20.00,30.00
+19,Available phosphorus,0.83,1.66,2.50
+20,Total phosphorus,2.78,3.61,4.45
+21,Ca:available phosphorus,12,12,12
+22,Ca: total phosphorus,3.60,5.53,6.74
+23,Digestible threonine,5.56,5.56,5.56
+24,Digestible methionine,4.85,4.85,4.85
+25,Digestible methionine + cysteine,7.08,7.08,7.08
+26,Analyzed values,,,
+27,Calciumc,9.96,20.24,30.38
+28,Total phosphorusc,2.76,3.42,4.76
+29,Ca:total phosphorus,3.60,5.91,6.38
+30,Calciumd,10.39,20.63,30.97
+31,Total phosphorus,2.79,3.64,4.79
+32,Ca: total phosphorusd,3.72,5.66,6.47

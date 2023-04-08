@@ -1,0 +1,29 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+0,,,,CWR,WHP,CROP name,,GenePool - TaxonGroup,Relative degree,Economic Priority,Breeding Priority,Conservation Priority,Endemic Priority,Energy Supply-ITPGRFA Priority,FPS,Priority
+1,MORACEAE,Ficus carica L. subsp. carica,subsp.,CWR,WHP,Fig,Ficus carica L.,GenePool,1b,10,10,0,0,10,6,High
+2,APIACEAE,vulgare,subsp.,CWR,WHP,Fennel,Mill.,TaxonGroup,1b,10,10,0,0,10,6,High
+3,APIACEAE,piperitum (Ucria) Beg.,subsp.,CWR,WHP,Fennel,Mill.,TaxonGroup,1b,10,10,0,0,10,6,High
+4,MALVACEAE,Gossypium herbaceum L.,species,CWR,WHP,Tree Cotton, arboreum L.,GenePool,2,10,6,0,0,10,5.2 High,5.2 High
+5,BRASSICACEAE,Durieu)Gomez-Campo,species,CWR,,Rape,Brassica napus L.,GenePool,3,9,2,0,10,10,6.2 High,6.2 High
+6,CUPRESSACEAE,oxycedrus,subsp.,CWR,,Berries,Juniperus communis,TaxonGroup,4,10,4,4,0,10,5.6 High,5.6 High
+7,CUPRESSACEAE,phoenicea,subsp.,CWR,WHP,Berries,Juniperus communis,TaxonGroup,4,10,4,4,0,10,5.6,High
+8,FABACEAE,Lablab purpureus(L.)Sweet,species,CWR,WHP,Bean,(L.Sweet,GenePool,1b,10,10,0,0,10,6,High
+9,ASTERACEAE,Lactuca saligna L.,species,CWR,,Lettuce,Lactuca sativa L.,GenePool,2,10,6,0,0,10,5.2,High
+10,ASTERACEAE,Lactuca serriola L.,species,CWR,,Lettuce,Lactuca sativa L.,GenePool,1b,10,10,0,0,10,6,High
+11,FABACEAE,Lathyrus brachyodon Murb,species,CWR,,Grass-Pea, Lathyrus sativus L.,TaxonGroup,4,0,4,4,10,10,5.6 High,5.6 High
+12,LAURACEAE,Laurus nobilis L.,species,CWR,WHP,Laurel,Laurus nobilis L.,TaxonGroup,1b,8,10,2,0,10,6,High
+13,FABACEAE,Lens culinaris Medik.,species,CWR,WHP,Lentil,Lens culinaris Medik.,GenePool,1b,8,10,0,0,10,5.6,High
+14,BRASSICACEAE,Lepidium glastifolium Desf.,species,CWR,,Cress,Lepidium sativum L.,TaxonGroup,4,10,4,0,10,10,6.8 High,6.8 High
+15,BRASSICACEAE,Lepidium sativum L. subsp. sativumsubsp.,Lepidium sativum L. subsp. sativumsubsp.,CWR,WHP,Cress,Lepidium sativum L.,GenePool,1b,10,10,0,0,10,6,High
+16,LINACEAE,Linum bienne Mill.,species,CWR,WHP,Flax,Linum usitatissimum,GenePool,1b,8,10,0,0,10,5.6 High,5.6 High
+17,LINACEAE,aristidis (Batt.) Batt.,subsp.,CWR,,Flax,Linum usitatissimum,TaxonGroup,4,8,4,0,10,10,6.4 High,6.4 High
+18,,Linum corymbiferum subsp.,,CWR,,,Linum usitatissimum,,,,,,,,,
+19,LINACEAE,asperifolium (Boiss.&Reut.),subsp.,CWR,,Flax,Linum usitatissimum,TaxonGroup,4,8,4,0,10,10,6.4 High,6.4 High
+20,,Martinez,,CWR,,,,,,,,,,,,
+21,LINACEAE,Linum usitatissimum L.,species,CWR,WHP,Flax,Linum usitatissimum,GenePool,1b,8,10,0,0,10,5.6,High
+22,LINACEAE,Linum usitatissimum L.,species,CWR,WHP,Flax,L.,GenePool,1b,8,10,0,0,10,5.6,High
+23,ROSACEAE,Malus pumila Mill.,species,CWR,WHP,Apple,Borkh.,GenePool,2,10,6,0,0,10,5.2,High
+24,OLEACEAE,Olea europaea L.subsp.europaea,subsp.,CWR,WHP,Olive,Olea europaea L.,GenePool,1b,10,10,4,0,10,6.8,High
+25,CACTACEAE,Opuntia ficus-indica(L.)Mill.,species,CWR,WHP,Indian Fig,L.) Mill.,TaxonGroup,1b,10,10,0,0,10,6,High
+26,APIACEAE,subsp.crispum,subsp.,CWR,,Parsley,crispum(Mill.) Fuss,TaxonGroup,1b,10,10,0,0,10,6,High
+27,ARECACEAE,Phoenix dactylifera L.,species,CWR,WHP,Date Palm,Phoenix dactylifera,GenePool,1b,10,10,0,0,10,6,High

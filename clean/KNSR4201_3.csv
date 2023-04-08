@@ -1,0 +1,45 @@
+,,Starter,Grower 1,Grower 2,Finisher
+,,,,,
+Sunflower meal,Control,1.25,1.25,1.9,2
+Sunflower meal,Functional,1,1,1,1
+"Oil, fat",Control,4.2,5.15,5.7,5.95
+"Oil, fat",Functional,3.5,4.3,5.03,5.2
+Corn gluten meal,Control,1.25,0.7,-,
+Corn gluten meal,Functional,1.32,0.55,-,
+Extruded linseed meal,Control,-,-,-,
+Extruded linseed meal,Functional,2.5,2.5,3.13,3.13
+Vitamin E,Control,-,-,-,
+"(100,000 UI/Kg feed)",Functional,0.22,0.23,0.23,0.23
+Selenium,Control,-,-,-,-
+(2000 mg/Kg feed),Functional,0.01,0.01,0.01,0.01
+Premix (Min.+ Vit. + Enz.+ Amin.),Control,4.77,3.92,3.43,3.17
+Premix (Min.+ Vit. + Enz.+ Amin.),Functional,4.6,3.81,3.33,3.09
+Proximate composition (%),Proximate composition (%),Proximate composition (%),Proximate composition (%),Proximate composition (%),Proximate composition (%)
+Volume,Control,100,100,100,100
+Volume,Functional,100,100,100,100
+AME (Kcal/Kg),Control,2996,3094,3187,3214
+AME (Kcal/Kg),Functional,2991,3095,3184,3215
+Dry matter,Control,89.34,89.2,89,89
+Dry matter,Functional,89.3,89.2,89,89
+Crude Protein,Control,23.32,21.3,19.1,18.4
+Crude Protein,Functional,23.3,21.3,19.2,18.4
+Crude Fiber,Control,3.12,3.1,3,2.9
+Crude Fiber,Functional,3.2,3.1,2.9,2.9
+Ether extract,Control,6.75,7.8,8.4,8.7
+Ether extract,Functional,6.9,7.7,8.7,8.9
+Ash,Control,6.77,5.9,5.4,5.2
+Ash,Functional,6.8,6.1,5.5,5.3
+Lysine (digest),Control,1.28,1.15,1.02,0.96
+Lysine (digest),Functional,1.28,1.15,1.02,0.96
+Metionine + Cysteine (digest),Control,0.95,0.87,0.8,0.75
+Metionine + Cysteine (digest),Functional,0.95,0.87,0.8,0.75
+Threonine (digest),Control,0.87,0.78,0.69,0.64
+Threonine (digest),Functional,0.87,0.78,0.69,0.64
+Calcium,Control,1,0.9,0.8,0.7
+Calcium,Functional,1,0.9,0.8,0.7
+Phosphorus,Control,0.7,0.6,0.5,0.5
+Phosphorus,Functional,0.7,0.6,0.5,0.5
+Selenium (mg/Kg feed) *,Control,0.1,0.1,0.1,0.1
+Selenium (mg/Kg feed) *,Functional,0.4,0.4,0.4,0.4
+Vitamin E (mg/Kg feed),Control,84,70,70,70
+Vitamin E (mg/Kg feed),Functional,299,300,300,300
