@@ -1,0 +1,36 @@
+Metabolite,Microorganism,Fermentation substrate,Reference
+L-arginine,Corynebacterium glutamicum,Sucrose,Park et al.(2014)
+L-asparagine,Pseudomonas fluorescens,M9 agar medium,Badoei-Dalfard (2016)
+L-cysteine,Pantoea ananatis,Luria-Bertani broth,Takumi et al.(2017
+L-histidine,Corynebacterium glutamicum,Molasses (15%),Kulis-Horn et al. (2014)
+L-leucine,Corynebacterium glutamicum,CGXIIG growth medium,Feng et al.2018)
+L-lysine,Bacillus methanolicus,SOBsuc medium,Naerdal et al.2017
+L-tryptophan,Escherichia coli,Seed fermenter,Liu et al.(2017)
+L-tyrosine,Brevibacterium lactofermentum,and beet molasses,Sadeghiyan-Rizi et al. (2014)
+L-valine,Corynebacterium glutamicum,Brain heart infusion broth,Zhang et al. (2018)
+L-phenylalanine,Aspergillus oryzae,Potato dextrose agar,Ali and Haq (2010)
+DL-methionine,Corynebacterium glutamicum,molasses-based media,Ali et al. (2018)
+Amylase,Bacillus subtilis,hydrolysate,Rajagopalan and Krishnan (2008)
+Cellulase,Aspergillus niger,Apple pomace,Dhillon et al. (2012)
+Beta-glucanase,Trichoderma viride,Oatmeal and peptone,Yang et al.(2015
+Invertase,Saccharomyces cerevisiae,Red carrot residue,Rashad and Nooman (2009
+Lactase,Lactobacillus acidophilus,Fermented ragi,Akolkar et al.(2005)
+Xylose,Streptomyces murinus,Luria-Bertani broth,Sarmiento et al. (2015)
+Protease,Aspergillus niger,salt media (BSM),Atalah et al.(2019)
+Peptidase,Debaryomyces hansenii,Fermented sausage,Bolumar et al.(2008)
+Vitamin Bi,Bacillus subtilis,Cashew apple,Kaprasob et al. (2018)
+Vitamin B2,Propionibacteria,"Whey-based liquid
+medium (WBM)",Deptula et al. (2017)
+Vitamin B3,Lactobacillus Sp,Cashew apple juice,Kaprasob et al. (2018)
+Vitamin B3,Leuconostoc mesenteroides,Cashew apple juice,Kaprasob et al. (2018)
+Vitamin B3,Bifidobacterium longum,Cashew apple juice,Kaprasob et al. (2018)
+Vitamin B6,"Bacillus subtilis,","Minimal medium with
+yeast extract",Rosenberg et al.(2017)
+Vitamin B6,Escherichia coli,"Minimal medium with
+yeast extract",Rosenberg et al.(2017)
+Vitamin B12,Propionic acid bacteria,Glycerol and glucose,Pophaly et al. (2012)
+Vitamin C,Bacillus thuringiensis,"L-sorbose limiting
+Medium",Yang et al. (2013)
+Vitamin K,"Lactococcus,",GM17 media,O'Connor et al. (2007)
+Vitamin K,"Lactobacillus,",GM17 media,O'Connor et al. (2007)
+Vitamin K,Enterococcus,GM17 media,O'Connor et al. (2007)

@@ -1,0 +1,8 @@
+Type of Fatty Acid,Phylum,Relative Abundance (%),Relative Abundance (%),q Value a
+,,Lower Intake,Higher Intake,
+TFAs,Desulfobacterota,1.05,1.84,0.005
+MUFAs,Desulfobacterota,1.1,1.82,0.029
+,Fusobacteria,0.84,1.99,0.008
+PUFAs,Desulfobacterota,1.04,1.89,0.013
+n6-FA,Desulfobacterota,1.04,1.89,0.013
+SFAs,Fusobacteria,0.7,2.34,0.008

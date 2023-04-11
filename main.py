@@ -51,6 +51,8 @@ def generate_structure(folder_paths):
 
 # function to get relevant file and irreleven
 def get_relevent(folder_path):
+	folder_cleaned = []
+	folder_not_cleaned = []
 
 	for folder in folder_path:
 		# obtenir le chemin des dossier input et output se trouvant a l'interieur de chaque dossier dans INF4188
@@ -66,12 +68,25 @@ def get_relevent(folder_path):
 
 		# parcourir chaque fichier input 
 		for subF in folder_lis_i:
+			# pour chaque element dans le input
 			for file in folder_lis_o:
+				# si l'element est un fichier
 				if os.path.isfile(f"{output_f}/{file}"):
+					# si ce fichier n'est pas dans la liste des relevent
 					if subF not in r_folder:
+						# copier ce fichier dans la liste releven
 						shutil.copy(f"{input_f}/{subF}", r_path)
-					else:
-						print("fichier releven deja été copié")
+					# ajouter le dossier courant a la liste des dossier ayant des fichier cleanable
+					folder_cleaned.append(folder)
+		
+		# si le dossier courant n'est pas dans la liste clean 
+		if folder not in folder_cleaned:
+			# ajouter ce dossier dans la liste des dossier possedant des fichiers non cleanable
+			folder_not_cleaned.append(folder)
+
+	folder_not_cleaned.sort(reverse=False)
+						
+	print(folder_not_cleaned)
 					
 
 # get irrevelen file
@@ -103,11 +118,9 @@ def get_cleaned_file(folder_path):
 			if os.path.isfile(f"{output_f}/{subF}"):
 				if subF not in src_clean_path:
 					shutil.copy(f"{output_f}/{subF}", clean_f)
-				else:
-					print("fichier clean deja copier")
-		
+						
 
-#  copier les fichier source dans le input du dossier INF4188 dans le dossier src_clean
+#  copier les fichier source des input du dossier INF4188 dans le dossier src_clean
 def copy_file(folder_path):
 	double_file = []
 	i = 0
@@ -115,15 +128,15 @@ def copy_file(folder_path):
 	for folder in folder_path:
 		# obtenir le chemin des dossier input et output se 
 		# trouvant a l'interieur de chaque dossier dans INF4188
-		output_f = f"{os.getcwd()}/INF4188/{folder}/output"
 		input_f = f"{os.getcwd()}/INF4188/{folder}/input"
 
 		# lister les fichier et dossier dans input et outpus
-		folder_lis_o = os.listdir(output_f)
 		folder_lis_i = os.listdir(input_f)
 
 		# parcourir chaque fichier input 
 		for subF in folder_lis_i:
+			if len(folder_lis_i) >=2:
+				print("dossier", folder, "input")
 			# si le subF est un fichier on le copie dans source_clean
 			if os.path.isfile(f"{input_f}/{subF}"):
 				if subF in src_clean_path:
@@ -131,7 +144,7 @@ def copy_file(folder_path):
 				else:
 					shutil.copy(f"{input_f}/{subF}", src_clean_f)
 					i=i+1
-		print(i, double_file)
+		# print(i, double_file)
 
 
 # copier les fichiers dans source_clean qui sont dans src mais ne sont pas dans source_clean
@@ -145,15 +158,16 @@ def copy_file_absent(folder_paths):
 
 if "__main__":
 	
-	folder_source = os.listdir(o_path)
+	folder_source = os.listdir(src_clean_f)
 	folder_path = os.listdir(a_path)
 	
 
-	# copy_file(folder_path)
+	copy_file(folder_path)
 	# copy_file_absent(folder_source)
 	get_relevent(folder_path)
 	get_cleaned_file(folder_path)
 	get_irrelevent(folder_source)
+
 
 
 
